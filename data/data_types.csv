@@ -1,0 +1,112 @@
+name,category,description,unit,source,local_variable_name,source_url
+Depth,Physical,Bottle depth in meters,m,CTD,Depth,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Pressure,Physical,Pressure at depth,dbar,CTD,Pressure,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Temperature (Primary),Physical,Seawater temperature - primary sensor,°C,CTD,Temp1,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Temperature (Secondary),Physical,Seawater temperature - secondary sensor,°C,CTD,Temp2,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Temperature (Average),Physical,Average of primary and secondary temperature,°C,CTD,TempAve,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Salinity (Primary),Physical,Practical salinity - primary sensor,PSU,CTD,Salt1,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Salinity (Primary Corrected),Physical,Practical salinity - primary corrected,PSU,CTD,Salt1_Corr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Salinity (Secondary),Physical,Practical salinity - secondary sensor,PSU,CTD,Salt2,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Salinity (Secondary Corrected),Physical,Practical salinity - secondary corrected,PSU,CTD,Salt2_Corr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Salinity (Average Corrected),Physical,Average corrected salinity,PSU,CTD,SaltAve_Corr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Potential Density (Primary),Physical,Sigma-theta from primary sensors,kg/m³,CTD,SigThetaTS1,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Potential Density (Secondary),Physical,Sigma-theta from secondary sensors,kg/m³,CTD,SigThetaTS2,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Potential Temperature (Primary),Physical,Potential temperature - primary,°C,CTD,PoT1,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Potential Temperature (Secondary),Physical,Potential temperature - secondary,°C,CTD,PoT2,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dynamic Height,Physical,Dynamic height anomaly,dyn m,CTD,DynHt,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Specific Volume Anomaly,Physical,Specific volume anomaly,m³/kg,CTD,SVA,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Bottle Depth,Physical,Depth of Niskin bottle sample,m,CTD,BTL_Depth,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Bottle Temperature,Physical,Temperature at bottle sample depth,°C,CTD,BTL_Temp,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Bottle Salinity,Physical,Salinity at bottle sample depth,PSU,CTD,SaltB,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Primary (mL/L),Chemical,Dissolved oxygen from primary sensor,mL/L,CTD,Ox1,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Primary Cruise Corrected,Chemical,Primary dissolved oxygen cruise-corrected,mL/L,CTD,Ox1_CruiseCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Primary Station Corrected,Chemical,Primary dissolved oxygen station-corrected,mL/L,CTD,Ox1_StaCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Secondary (mL/L),Chemical,Dissolved oxygen from secondary sensor,mL/L,CTD,Ox2,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Secondary Cruise Corrected,Chemical,Secondary dissolved oxygen cruise-corrected,mL/L,CTD,Ox2_CruiseCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Secondary Station Corrected,Chemical,Secondary dissolved oxygen station-corrected,mL/L,CTD,Ox2_StaCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Average Station Corrected (mL/L),Chemical,Average station-corrected dissolved oxygen,mL/L,CTD,OxAve_StaCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Primary (µmol/kg),Chemical,Dissolved oxygen primary in micromoles,µmol/kg,CTD,Ox1uM,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Primary Cruise Corrected (µmol/kg),Chemical,Primary O2 cruise-corrected in micromoles,µmol/kg,CTD,Ox1uM_CruiseCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Primary Station Corrected (µmol/kg),Chemical,Primary O2 station-corrected in micromoles,µmol/kg,CTD,Ox1uM_StaCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Secondary (µmol/kg),Chemical,Dissolved oxygen secondary in micromoles,µmol/kg,CTD,Ox2uM,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Secondary Cruise Corrected (µmol/kg),Chemical,Secondary O2 cruise-corrected in micromoles,µmol/kg,CTD,Ox2uM_CruiseCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Secondary Station Corrected (µmol/kg),Chemical,Secondary O2 station-corrected in micromoles,µmol/kg,CTD,Ox2uM_StaCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Dissolved Oxygen - Average Station Corrected (µmol/kg),Chemical,Average station-corrected O2 in micromoles,µmol/kg,CTD,OxAveuM_StaCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Oxygen Saturation (Primary),Chemical,Oxygen percent saturation - primary,%,CTD,OxSat1,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Oxygen Saturation (Secondary),Chemical,Oxygen percent saturation - secondary,%,CTD,OxSat2,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Bottle Dissolved Oxygen (mL/L),Chemical,Dissolved oxygen from bottle sample,mL/L,CTD,OxB,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Bottle Dissolved Oxygen (µmol/kg),Chemical,Dissolved oxygen from bottle in micromoles,µmol/kg,CTD,OxBuM,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+pH,Chemical,Seawater pH,,CTD,pH,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+ISUS Nitrate Sensor Voltage,Chemical,Raw voltage from ISUS nitrate sensor,V,CTD,ISUSV,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Estimated Nitrate - Cruise Corrected,Chemical,Nitrate estimated from ISUS cruise-corrected,µmol/L,CTD,EstNO3_CruiseCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Estimated Nitrate - Station Corrected,Chemical,Nitrate estimated from ISUS station-corrected,µmol/L,CTD,EstNO3_StaCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Nitrate,Nutrient,Nitrate concentration from bottle,µmol/L,CTD,NO3,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Nitrite,Nutrient,Nitrite concentration from bottle,µmol/L,CTD,NO2,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Ammonium,Nutrient,Ammonium concentration from bottle,µmol/L,CTD,NH4,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Phosphate,Nutrient,Phosphate concentration from bottle,µmol/L,CTD,PO4,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Silicate,Nutrient,Silicate concentration from bottle,µmol/L,CTD,SIL,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Estimated Chlorophyll - Cruise Corrected,Biological,Chlorophyll estimated from fluorometer cruise-corrected,µg/L,CTD,EstChl_CruiseCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Estimated Chlorophyll - Station Corrected,Biological,Chlorophyll estimated from fluorometer station-corrected,µg/L,CTD,EstChl_StaCorr,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Chlorophyll-a,Biological,Chlorophyll-a from bottle fluorometric analysis,µg/L,CTD,Chl-a,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Phaeopigments,Biological,Phaeopigment concentration from bottle,µg/L,CTD,Phaeo,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Fluorescence Voltage,Optical,Raw fluorescence voltage from sensor,V,CTD,FluorV,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Beam Attenuation Coefficient,Optical,Beam attenuation at 660nm,1/m,CTD,BAT,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Beam Transmission,Optical,Beam transmission percentage,%,CTD,XMiss,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Surface PAR,Optical,Surface photosynthetically active radiation,µE/m²/s,CTD,SPAR,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+PAR,Optical,Photosynthetically active radiation at depth,µE/m²/s,CTD,PAR,https://calcofi.org/data/oceanographic-data/ctd-cast-files/
+Water Temperature (Bottle),Physical,Water temperature from Niskin bottle,°C,Bottle DB,T_degC,https://calcofi.org/data/oceanographic-data/bottle-database/
+Salinity (Bottle),Physical,Salinity from bottle sample,PSU,Bottle DB,Salnty,https://calcofi.org/data/oceanographic-data/bottle-database/
+Dissolved Oxygen (Bottle mL/L),Chemical,Dissolved oxygen from bottle titration,mL/L,Bottle DB,O2ml_L,https://calcofi.org/data/oceanographic-data/bottle-database/
+Dissolved Oxygen (Bottle µmol/kg),Chemical,Dissolved oxygen from bottle in micromoles,µmol/kg,Bottle DB,Oxy_µmol/Kg,https://calcofi.org/data/oceanographic-data/bottle-database/
+Oxygen Saturation (Bottle),Chemical,Oxygen percent saturation from bottle,%,Bottle DB,O2Sat,https://calcofi.org/data/oceanographic-data/bottle-database/
+Potential Density (Bottle),Physical,Sigma-theta from bottle sample,kg/m³,Bottle DB,STheta,https://calcofi.org/data/oceanographic-data/bottle-database/
+Chlorophyll-a (Bottle),Biological,Chlorophyll-a fluorometric from bottle,µg/L,Bottle DB,ChlorA,https://calcofi.org/data/oceanographic-data/bottle-database/
+Phaeopigments (Bottle),Biological,Phaeopigment from bottle sample,µg/L,Bottle DB,Phaeop,https://calcofi.org/data/oceanographic-data/bottle-database/
+Phosphate (Bottle),Nutrient,Phosphate from bottle chemical analysis,µmol/L,Bottle DB,PO4uM,https://calcofi.org/data/oceanographic-data/bottle-database/
+Silicate (Bottle),Nutrient,Silicate from bottle chemical analysis,µmol/L,Bottle DB,SiO3uM,https://calcofi.org/data/oceanographic-data/bottle-database/
+Nitrite (Bottle),Nutrient,Nitrite from bottle chemical analysis,µmol/L,Bottle DB,NO2uM,https://calcofi.org/data/oceanographic-data/bottle-database/
+Nitrate (Bottle),Nutrient,Nitrate from bottle chemical analysis,µmol/L,Bottle DB,NO3uM,https://calcofi.org/data/oceanographic-data/bottle-database/
+Ammonia (Bottle),Nutrient,Ammonia from bottle chemical analysis,µmol/L,Bottle DB,NH3uM,https://calcofi.org/data/oceanographic-data/bottle-database/
+Primary Productivity (C14 Rep 1),Biological,14C carbon assimilation replicate 1,mgC/m³/half-day,Bottle DB,C14As1,https://calcofi.org/data/oceanographic-data/bottle-database/
+Primary Productivity (C14 Rep 2),Biological,14C carbon assimilation replicate 2,mgC/m³/half-day,Bottle DB,C14As2,https://calcofi.org/data/oceanographic-data/bottle-database/
+Primary Productivity (C14 Mean),Biological,Mean 14C carbon assimilation,mgC/m³/half-day,Bottle DB,MeanAs,https://calcofi.org/data/oceanographic-data/bottle-database/
+Primary Productivity (Dark Control),Biological,14C dark/control bottle assimilation,mgC/m³/half-day,Bottle DB,DarkAs,https://calcofi.org/data/oceanographic-data/bottle-database/
+Dissolved Inorganic Carbon (DIC1),Chemical,DIC from bottle replicate 1,µmol/kg,Bottle DB,DIC1,https://calcofi.org/data/oceanographic-data/bottle-database/
+Dissolved Inorganic Carbon (DIC2),Chemical,DIC from bottle replicate 2,µmol/kg,Bottle DB,DIC2,https://calcofi.org/data/oceanographic-data/bottle-database/
+Total Alkalinity (TA1),Chemical,Total alkalinity replicate 1,µmol/kg,Bottle DB,TA1,https://calcofi.org/data/oceanographic-data/bottle-database/
+Total Alkalinity (TA2),Chemical,Total alkalinity replicate 2,µmol/kg,Bottle DB,TA2,https://calcofi.org/data/oceanographic-data/bottle-database/
+pH (Bottle Rep 1),Chemical,pH from bottle replicate 1,,Bottle DB,pH1,https://calcofi.org/data/oceanographic-data/bottle-database/
+pH (Bottle Rep 2),Chemical,pH from bottle replicate 2,,Bottle DB,pH2,https://calcofi.org/data/oceanographic-data/bottle-database/
+Integrated Chlorophyll,Biological,Integrated chlorophyll per half light day,mgChl/m²/half-day,Bottle DB,IntChl,https://calcofi.org/data/oceanographic-data/bottle-database/
+Integrated Primary Productivity,Biological,Integrated primary productivity per half light day,mgC/m²/half-day,Bottle DB,IntC14,https://calcofi.org/data/oceanographic-data/bottle-database/
+Wave Height,Meteorological,Wave height observed at station,feet,Bottle DB,Wave_Ht,https://calcofi.org/data/oceanographic-data/bottle-database/
+Wind Speed,Meteorological,Wind speed at station,knots,Bottle DB,Wind_Spd,https://calcofi.org/data/oceanographic-data/bottle-database/
+Barometric Pressure,Meteorological,Barometric pressure at station,millibars,Bottle DB,Barometer,https://calcofi.org/data/oceanographic-data/bottle-database/
+Air Temperature (Dry),Meteorological,Dry bulb air temperature,°C,Bottle DB,Dry_T,https://calcofi.org/data/oceanographic-data/bottle-database/
+Air Temperature (Wet),Meteorological,Wet bulb air temperature,°C,Bottle DB,Wet_T,https://calcofi.org/data/oceanographic-data/bottle-database/
+Secchi Depth,Optical,Secchi disk depth,m,Bottle DB,Secchi,https://calcofi.org/data/oceanographic-data/bottle-database/
+DIC (Underway),Chemical,Dissolved inorganic carbon from underway system,µmol/kg,DIC,DIC_underway,https://calcofi.org/data/oceanographic-data/dic/
+Total Alkalinity (Underway),Chemical,Total alkalinity from underway system,µmol/kg,DIC,TA_underway,https://calcofi.org/data/oceanographic-data/dic/
+pCO2 (Underway),Chemical,Partial pressure of CO2 from underway,µatm,DIC,pCO2_underway,https://calcofi.org/data/oceanographic-data/dic/
+Sea Surface Temperature (Underway),Physical,Sea surface temperature from underway,°C,Underway,SST,https://calcofi.org/data/oceanographic-data/underway/
+Sea Surface Salinity (Underway),Physical,Sea surface salinity from underway,PSU,Underway,SSS,https://calcofi.org/data/oceanographic-data/underway/
+Fluorescence (Underway),Biological,Fluorescence from underway flow-through,V,Underway,Fluor_underway,https://calcofi.org/data/oceanographic-data/underway/
+Transmissometry (Underway),Optical,Beam transmissometry from underway,%,Underway,Trans_underway,https://calcofi.org/data/oceanographic-data/underway/
+Wind Speed (Underway),Meteorological,Wind speed from ship underway,knots,Underway,WindSpd_underway,https://calcofi.org/data/oceanographic-data/underway/
+Wind Direction (Underway),Meteorological,Wind direction from ship underway,degrees,Underway,WindDir_underway,https://calcofi.org/data/oceanographic-data/underway/
+Air Temperature (Underway),Meteorological,Air temperature from underway,°C,Underway,AirTemp_underway,https://calcofi.org/data/oceanographic-data/underway/
+Zooplankton Displacement Volume,Biological,Net tow zooplankton biomass proxy,mL/1000m³,Zooplankton,ZoopDisplVol,https://calcofi.org/data/marine-ecosystem-data/zooplankton/
+Zooplankton Wet Weight,Biological,Net tow zooplankton wet weight biomass,mg/1000m³,Zooplankton,ZoopWetWt,https://calcofi.org/data/marine-ecosystem-data/zooplankton/
+Zooplankton Dry Weight,Biological,Net tow zooplankton dry weight biomass,mg/1000m³,Zooplankton,ZoopDryWt,https://calcofi.org/data/marine-ecosystem-data/zooplankton/
+Fish Eggs (Total),Biological,Total fish egg abundance from net tow,n/10m²,Fish Eggs & Larvae,FishEggs_total,https://calcofi.org/data/marine-ecosystem-data/fish-eggs-larvae/
+Fish Larvae (Total),Biological,Total fish larvae abundance from net tow,n/10m²,Fish Eggs & Larvae,FishLarv_total,https://calcofi.org/data/marine-ecosystem-data/fish-eggs-larvae/
+Anchovy Eggs,Biological,Northern anchovy egg abundance,n/10m²,Fish Eggs & Larvae,AnchovyEggs,https://calcofi.org/data/marine-ecosystem-data/fish-eggs-larvae/
+Anchovy Larvae,Biological,Northern anchovy larvae abundance,n/10m²,Fish Eggs & Larvae,AnchovyLarv,https://calcofi.org/data/marine-ecosystem-data/fish-eggs-larvae/
+Sardine Eggs,Biological,Pacific sardine egg abundance,n/10m²,Fish Eggs & Larvae,SardineEggs,https://calcofi.org/data/marine-ecosystem-data/fish-eggs-larvae/
+Sardine Larvae,Biological,Pacific sardine larvae abundance,n/10m²,Fish Eggs & Larvae,SardineLarv,https://calcofi.org/data/marine-ecosystem-data/fish-eggs-larvae/
+Phytoplankton Cell Abundance,Biological,Phytoplankton cell counts from net tow,cells/L,Phytoplankton,PhytoAbund,https://calcofi.org/data/marine-ecosystem-data/phytoplankton-bacterioplankton/
+Bacterioplankton Abundance,Biological,Bacterial cell abundance,cells/mL,Phytoplankton,BacterioAbund,https://calcofi.org/data/marine-ecosystem-data/phytoplankton-bacterioplankton/
+Primary Production (C14),Biological,Carbon-14 primary productivity incubation,mgC/m³/day,Primary Production,PrimProd_C14,https://calcofi.org/data/marine-ecosystem-data/primary-production/
+Marine Mammal Sightings,Biological,Marine mammal species sightings and counts,count,Marine Mammals,MarMamSight,https://calcofi.org/data/marine-ecosystem-data/marine-mammals/
+Seabird Sightings,Biological,Seabird species sightings and counts,count,Seabirds,SeabirdSight,https://calcofi.org/data/marine-ecosystem-data/seabirds/
+Genomics / eDNA,Biological,Environmental DNA metabarcoding data,,Genomics/eDNA,eDNA,https://calcofi.org/data/marine-ecosystem-data/e-dna/
