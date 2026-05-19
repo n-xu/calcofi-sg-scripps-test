@@ -33,7 +33,7 @@ function dimMarkerStyle() {
 async function loadStations() {
   console.log("LOADING STATIONS");
   try {
-    const res = await fetch(`${API}/stations`);
+    const res = await fetch("/data/stations.json");
     const data = await res.json();
 
     const stations = Array.isArray(data) ? data : data?.data;
@@ -63,25 +63,25 @@ async function loadStations() {
 
 // --- Variables + categories ---
 async function loadVariables() {
-  const res = await fetch(`${API}/variables`);
+  const res = await fetch("/data/variables.json");
   allVariables = await res.json();
   document.getElementById('variable-count').textContent = allVariables.length;
 
-  const catRes = await fetch(`${API}/categories`);
-  const categories = await catRes.json();
-  renderCategoryFilters(categories);
+  // const catRes = await fetch(`${API}/categories`);
+  // const categories = await catRes.json();
+  // renderCategoryFilters(categories);
 }
 
-function renderCategoryFilters(categories) {
-  const container = document.getElementById('category-filters');
-  categories.forEach(cat => {
-    const btn = document.createElement('button');
-    btn.className = 'filter-btn';
-    btn.textContent = cat;
-    btn.onclick = () => toggleCategory(cat, btn);
-    container.appendChild(btn);
-  });
-}
+// function renderCategoryFilters(categories) {
+//   const container = document.getElementById('category-filters');
+//   categories.forEach(cat => {
+//     const btn = document.createElement('button');
+//     btn.className = 'filter-btn';
+//     btn.textContent = cat;
+//     btn.onclick = () => toggleCategory(cat, btn);
+//     container.appendChild(btn);
+//   });
+// }
 
 // --- Dropdown search ---
 const searchInput = document.getElementById('search');

@@ -1,0 +1,1382 @@
+[
+  {
+    "station_id": "060.0 053.0",
+    "lat": 37.84564,
+    "lon": -123.10878,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "060.0 060.0",
+    "lat": 37.61544,
+    "lon": -123.59918,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "060.0 070.0",
+    "lat": 37.28251,
+    "lon": -124.32792,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "060.0 080.0",
+    "lat": 36.93829,
+    "lon": -125.06789,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "060.0 090.0",
+    "lat": 36.61104,
+    "lon": -125.77484,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "063.3 052.0",
+    "lat": 37.30725,
+    "lon": -122.61818,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "063.3 055.0",
+    "lat": 37.20472,
+    "lon": -122.81999,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "063.3 060.0",
+    "lat": 37.04386,
+    "lon": -123.19999,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "063.3 070.0",
+    "lat": 36.71064,
+    "lon": -123.91108,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "063.3 080.0",
+    "lat": 36.37132,
+    "lon": -124.63516,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "063.3 090.0",
+    "lat": 36.03605,
+    "lon": -125.33151,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "065.3 052.7",
+    "lat": 36.93533,
+    "lon": -122.42705,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "066.7 050.0",
+    "lat": 36.79082,
+    "lon": -122.06514,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "066.7 055.0",
+    "lat": 36.61487,
+    "lon": -122.4194,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "066.7 060.0",
+    "lat": 36.45154,
+    "lon": -122.76738,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "066.7 090.0",
+    "lat": 35.45008,
+    "lon": -124.88438,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "067.0 070.0",
+    "lat": 36.1207,
+    "lon": -123.47453,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "067.0 080.0",
+    "lat": 35.78872,
+    "lon": -124.19335,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "067.1 047.7",
+    "lat": 36.79678,
+    "lon": -121.84589,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "068.1 055.9",
+    "lat": 36.35624,
+    "lon": -122.33089,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "070.0 051.0",
+    "lat": 36.17777,
+    "lon": -121.73589,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "070.0 055.0",
+    "lat": 36.05138,
+    "lon": -122.02923,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "070.0 060.0",
+    "lat": 35.87796,
+    "lon": -122.37232,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "070.0 063.6",
+    "lat": 35.76278,
+    "lon": -122.61589,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "070.0 066.7",
+    "lat": 35.65972,
+    "lon": -122.8362,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "070.0 070.0",
+    "lat": 35.54595,
+    "lon": -123.06419,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "070.0 080.0",
+    "lat": 35.21302,
+    "lon": -123.78173,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "070.0 090.0",
+    "lat": 34.8771,
+    "lon": -124.47616,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "073.3 050.0",
+    "lat": 35.6334,
+    "lon": -121.26129,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "073.3 052.1",
+    "lat": 35.57649,
+    "lon": -121.41856,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "073.3 055.0",
+    "lat": 35.47606,
+    "lon": -121.60726,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "073.3 060.0",
+    "lat": 35.31261,
+    "lon": -121.95693,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "073.3 070.0",
+    "lat": 34.96481,
+    "lon": -122.64882,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "073.3 080.0",
+    "lat": 34.64258,
+    "lon": -123.36662,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "073.3 090.0",
+    "lat": 34.30891,
+    "lon": -124.04878,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "076.7 000.0",
+    "lat": 33.37983,
+    "lon": -124.31505,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "076.7 049.0",
+    "lat": 35.08721,
+    "lon": -120.77619,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "076.7 051.0",
+    "lat": 35.02195,
+    "lon": -120.91889,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "076.7 055.0",
+    "lat": 34.88849,
+    "lon": -121.19729,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "076.7 060.0",
+    "lat": 34.72509,
+    "lon": -121.55046,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "076.7 070.0",
+    "lat": 34.38432,
+    "lon": -122.26067,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "076.7 080.0",
+    "lat": 34.05444,
+    "lon": -122.95346,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "076.7 090.0",
+    "lat": 33.72418,
+    "lon": -123.63382,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "080.0 000.0",
+    "lat": 32.81863,
+    "lon": -123.89868,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "080.0 050.5",
+    "lat": 34.4577,
+    "lon": -120.50816,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "080.0 051.0",
+    "lat": 34.44378,
+    "lon": -120.53705,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "080.0 055.0",
+    "lat": 34.32643,
+    "lon": -120.81653,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "080.0 060.0",
+    "lat": 34.14493,
+    "lon": -121.1444,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "080.0 070.0",
+    "lat": 33.81849,
+    "lon": -121.83462,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "080.0 080.0",
+    "lat": 33.49142,
+    "lon": -122.52449,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "080.0 090.0",
+    "lat": 33.14288,
+    "lon": -123.21028,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "080.7 059.9",
+    "lat": 34.03772,
+    "lon": -121.05263,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "081.2 053.9",
+    "lat": 34.14716,
+    "lon": -120.58321,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "081.8 046.9",
+    "lat": 34.27977,
+    "lon": -120.01268,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "082.7 046.1",
+    "lat": 34.14649,
+    "lon": -119.86644,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 000.0",
+    "lat": 32.23562,
+    "lon": -123.48927,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 010.0",
+    "lat": 31.92984,
+    "lon": -124.17948,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 039.4",
+    "lat": 34.24682,
+    "lon": -119.35134,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 040.6",
+    "lat": 34.2198,
+    "lon": -119.41575,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 042.0",
+    "lat": 34.1726,
+    "lon": -119.49382,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 051.0",
+    "lat": 33.87327,
+    "lon": -120.13582,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 055.0",
+    "lat": 33.74104,
+    "lon": -120.4147,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 060.0",
+    "lat": 33.58672,
+    "lon": -120.74478,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 070.0",
+    "lat": 33.25059,
+    "lon": -121.43278,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 080.0",
+    "lat": 32.91189,
+    "lon": -122.12042,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.3 090.0",
+    "lat": 32.57732,
+    "lon": -122.81228,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "083.6 051.5",
+    "lat": 33.8202,
+    "lon": -120.1314,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "084.0 041.7",
+    "lat": 34.05828,
+    "lon": -119.41786,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "084.5 043.5",
+    "lat": 33.92207,
+    "lon": -119.47439,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "085.4 035.8",
+    "lat": 34.00436,
+    "lon": -118.84803,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 000.0",
+    "lat": 31.66137,
+    "lon": -123.05853,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 010.0",
+    "lat": 31.3285,
+    "lon": -123.73561,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 033.0",
+    "lat": 33.88894,
+    "lon": -118.49737,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 035.0",
+    "lat": 33.82314,
+    "lon": -118.61773,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 040.0",
+    "lat": 33.66195,
+    "lon": -118.97133,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 045.0",
+    "lat": 33.49267,
+    "lon": -119.30925,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 050.0",
+    "lat": 33.31619,
+    "lon": -119.66675,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 055.0",
+    "lat": 33.15964,
+    "lon": -120.00067,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 060.0",
+    "lat": 32.99588,
+    "lon": -120.33664,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 070.0",
+    "lat": 32.65569,
+    "lon": -121.01954,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 080.0",
+    "lat": 32.3301,
+    "lon": -121.72512,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.7 090.0",
+    "lat": 31.98952,
+    "lon": -122.38408,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "086.8 032.5",
+    "lat": 33.88578,
+    "lon": -118.45124,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "088.5 030.1",
+    "lat": 33.66824,
+    "lon": -118.09272,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 000.0",
+    "lat": 31.08024,
+    "lon": -122.66729,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 010.0",
+    "lat": 30.74752,
+    "lon": -123.33434,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 020.0",
+    "lat": 30.43387,
+    "lon": -123.98518,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 027.7",
+    "lat": 33.49002,
+    "lon": -117.74956,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 028.0",
+    "lat": 33.48257,
+    "lon": -117.76916,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 030.0",
+    "lat": 33.41782,
+    "lon": -117.90062,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 035.0",
+    "lat": 33.25342,
+    "lon": -118.26258,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 037.0",
+    "lat": 33.18136,
+    "lon": -118.38318,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 045.0",
+    "lat": 32.93356,
+    "lon": -118.94706,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 053.0",
+    "lat": 32.65107,
+    "lon": -119.48336,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 060.0",
+    "lat": 32.41558,
+    "lon": -119.96351,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 070.0",
+    "lat": 32.08716,
+    "lon": -120.63811,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 080.0",
+    "lat": 31.75232,
+    "lon": -121.32822,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "090.0 090.0",
+    "lat": 31.41752,
+    "lon": -121.99384,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "091.7 026.4",
+    "lat": 33.23634,
+    "lon": -117.47077,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 000.0",
+    "lat": 30.51329,
+    "lon": -122.26129,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 010.0",
+    "lat": 30.1913,
+    "lon": -122.90005,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 020.0",
+    "lat": 29.84914,
+    "lon": -123.58195,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 026.7",
+    "lat": 32.9479,
+    "lon": -117.30829,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 028.0",
+    "lat": 32.9179,
+    "lon": -117.39044,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 030.0",
+    "lat": 32.85788,
+    "lon": -117.5384,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 035.0",
+    "lat": 32.68239,
+    "lon": -117.86659,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 040.0",
+    "lat": 32.51142,
+    "lon": -118.21222,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 045.0",
+    "lat": 32.33904,
+    "lon": -118.54896,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 050.0",
+    "lat": 32.176,
+    "lon": -118.88954,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 055.0",
+    "lat": 32.0155,
+    "lon": -119.23087,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 060.0",
+    "lat": 31.84513,
+    "lon": -119.56716,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 070.0",
+    "lat": 31.51681,
+    "lon": -120.23795,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 080.0",
+    "lat": 31.17423,
+    "lon": -120.91265,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.3 090.0",
+    "lat": 30.85924,
+    "lon": -121.58762,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  },
+  {
+    "station_id": "093.4 026.4",
+    "lat": 32.93868,
+    "lon": -117.28333,
+    "datasets": [
+      "/euphausiid/save.php?mode=save",
+      "ctd-cast-files/",
+      "datazoo/catalogs/ccelter/datasets/159",
+      "nt620vn7810"
+    ],
+    "variables": []
+  }
+]
