@@ -1,0 +1,3383 @@
+{
+  "cruise": [
+    "erdCalCOFINOAAhydros::cruise",
+    "erdCalCOFIcufes::cruise",
+    "erdCalCOFIeggcnt::cruise",
+    "erdCalCOFIeggstg::cruise",
+    "erdCalCOFIinvcnt::cruise",
+    "erdCalCOFIinvsiz::cruise",
+    "erdCalCOFIlrvcnt::cruise",
+    "erdCalCOFIlrvsiz::cruise",
+    "erdCalCOFIlrvstg::cruise",
+    "erdCalCOFItows::cruise",
+    "erdCalCOFIzoovol::cruise",
+    "siocalcofiHydroCast::cruise"
+  ],
+  "identifier": [
+    "erdCalCOFINOAAhydros::cruise",
+    "erdCalCOFINOAAhydros::order_occupied",
+    "erdCalCOFINOAAhydros::ship",
+    "erdCalCOFINOAAhydros::ship_code",
+    "erdCalCOFIcufes::cruise",
+    "erdCalCOFIcufes::sample_number",
+    "erdCalCOFIcufes::ship",
+    "erdCalCOFIcufes::ship_code",
+    "erdCalCOFIeggcnt::cruise",
+    "erdCalCOFIeggcnt::net_location",
+    "erdCalCOFIeggcnt::order_occupied",
+    "erdCalCOFIeggcnt::ship",
+    "erdCalCOFIeggcnt::ship_code",
+    "erdCalCOFIeggcnt::tow_number",
+    "erdCalCOFIeggcnt::tow_type",
+    "erdCalCOFIeggstg::cruise",
+    "erdCalCOFIeggstg::egg_stage",
+    "erdCalCOFIeggstg::net_location",
+    "erdCalCOFIeggstg::order_occupied",
+    "erdCalCOFIeggstg::ship",
+    "erdCalCOFIeggstg::ship_code",
+    "erdCalCOFIeggstg::tow_number",
+    "erdCalCOFIeggstg::tow_type",
+    "erdCalCOFIinvcnt::cruise",
+    "erdCalCOFIinvcnt::net_location",
+    "erdCalCOFIinvcnt::order_occupied",
+    "erdCalCOFIinvcnt::ship",
+    "erdCalCOFIinvcnt::ship_code",
+    "erdCalCOFIinvcnt::tow_number",
+    "erdCalCOFIinvcnt::tow_type",
+    "erdCalCOFIinvsiz::cruise",
+    "erdCalCOFIinvsiz::net_location",
+    "erdCalCOFIinvsiz::order_occupied",
+    "erdCalCOFIinvsiz::ship",
+    "erdCalCOFIinvsiz::ship_code",
+    "erdCalCOFIinvsiz::tow_number",
+    "erdCalCOFIinvsiz::tow_type",
+    "erdCalCOFIlrvcnt::cruise",
+    "erdCalCOFIlrvcnt::net_location",
+    "erdCalCOFIlrvcnt::order_occupied",
+    "erdCalCOFIlrvcnt::ship",
+    "erdCalCOFIlrvcnt::ship_code",
+    "erdCalCOFIlrvcnt::tow_number",
+    "erdCalCOFIlrvcnt::tow_type",
+    "erdCalCOFIlrvsiz::cruise",
+    "erdCalCOFIlrvsiz::net_location",
+    "erdCalCOFIlrvsiz::order_occupied",
+    "erdCalCOFIlrvsiz::ship",
+    "erdCalCOFIlrvsiz::ship_code",
+    "erdCalCOFIlrvsiz::tow_number",
+    "erdCalCOFIlrvsiz::tow_type",
+    "erdCalCOFIlrvstg::cruise",
+    "erdCalCOFIlrvstg::net_location",
+    "erdCalCOFIlrvstg::order_occupied",
+    "erdCalCOFIlrvstg::ship",
+    "erdCalCOFIlrvstg::ship_code",
+    "erdCalCOFIlrvstg::tow_number",
+    "erdCalCOFIlrvstg::tow_type",
+    "erdCalCOFItows::cruise",
+    "erdCalCOFItows::net_location",
+    "erdCalCOFItows::order_occupied",
+    "erdCalCOFItows::ship",
+    "erdCalCOFItows::ship_code",
+    "erdCalCOFItows::tow_number",
+    "erdCalCOFItows::tow_type",
+    "erdCalCOFIzoovol::cruise",
+    "erdCalCOFIzoovol::net_location",
+    "erdCalCOFIzoovol::order_occupied",
+    "erdCalCOFIzoovol::ship",
+    "erdCalCOFIzoovol::ship_code",
+    "erdCalCOFIzoovol::tow_number",
+    "erdCalCOFIzoovol::tow_type",
+    "siocalcofiHydroBottle::btl_cnt",
+    "siocalcofiHydroBottle::btlnum",
+    "siocalcofiHydroBottle::cst_cnt",
+    "siocalcofiHydroBottle::depth_id",
+    "siocalcofiHydroBottle::r_oxy",
+    "siocalcofiHydroBottle::recind",
+    "siocalcofiHydroBottle::sta_id",
+    "siocalcofiHydroCast::ac_line",
+    "siocalcofiHydroCast::ac_sta",
+    "siocalcofiHydroCast::cast_id",
+    "siocalcofiHydroCast::cruise",
+    "siocalcofiHydroCast::cruise_id",
+    "siocalcofiHydroCast::cruz_leg",
+    "siocalcofiHydroCast::cruz_num",
+    "siocalcofiHydroCast::cruz_sta",
+    "siocalcofiHydroCast::cst_cnt",
+    "siocalcofiHydroCast::data_or",
+    "siocalcofiHydroCast::data_type",
+    "siocalcofiHydroCast::dbsta_id",
+    "siocalcofiHydroCast::event_num",
+    "siocalcofiHydroCast::order_occ",
+    "siocalcofiHydroCast::orig_sta_id",
+    "siocalcofiHydroCast::rpt_line",
+    "siocalcofiHydroCast::rpt_sta",
+    "siocalcofiHydroCast::ship_code",
+    "siocalcofiHydroCast::ship_name",
+    "siocalcofiHydroCast::st_line",
+    "siocalcofiHydroCast::st_station",
+    "siocalcofiHydroCast::sta_code",
+    "siocalcofiHydroCast::sta_id"
+  ],
+  "six-digit cruise code (yyyymm)": [
+    "erdCalCOFINOAAhydros::cruise",
+    "erdCalCOFIcufes::cruise",
+    "erdCalCOFIeggcnt::cruise",
+    "erdCalCOFIeggstg::cruise",
+    "erdCalCOFIinvcnt::cruise",
+    "erdCalCOFIinvsiz::cruise",
+    "erdCalCOFIlrvcnt::cruise",
+    "erdCalCOFIlrvsiz::cruise",
+    "erdCalCOFIlrvstg::cruise",
+    "erdCalCOFItows::cruise",
+    "erdCalCOFIzoovol::cruise"
+  ],
+  "ship": [
+    "erdCalCOFINOAAhydros::ship",
+    "erdCalCOFIcufes::ship",
+    "erdCalCOFIeggcnt::ship",
+    "erdCalCOFIeggstg::ship",
+    "erdCalCOFIinvcnt::ship",
+    "erdCalCOFIinvsiz::ship",
+    "erdCalCOFIlrvcnt::ship",
+    "erdCalCOFIlrvsiz::ship",
+    "erdCalCOFIlrvstg::ship",
+    "erdCalCOFItows::ship",
+    "erdCalCOFIzoovol::ship"
+  ],
+  "ship name": [
+    "erdCalCOFINOAAhydros::ship",
+    "erdCalCOFIcufes::ship",
+    "erdCalCOFIeggcnt::ship",
+    "erdCalCOFIeggstg::ship",
+    "erdCalCOFIinvcnt::ship",
+    "erdCalCOFIinvsiz::ship",
+    "erdCalCOFIlrvcnt::ship",
+    "erdCalCOFIlrvsiz::ship",
+    "erdCalCOFIlrvstg::ship",
+    "erdCalCOFItows::ship",
+    "erdCalCOFIzoovol::ship",
+    "siocalcofiHydroCast::ship_name"
+  ],
+  "ship_code": [
+    "erdCalCOFINOAAhydros::ship_code",
+    "erdCalCOFIcufes::ship_code",
+    "erdCalCOFIeggcnt::ship_code",
+    "erdCalCOFIeggstg::ship_code",
+    "erdCalCOFIinvcnt::ship_code",
+    "erdCalCOFIinvsiz::ship_code",
+    "erdCalCOFIlrvcnt::ship_code",
+    "erdCalCOFIlrvsiz::ship_code",
+    "erdCalCOFIlrvstg::ship_code",
+    "erdCalCOFItows::ship_code",
+    "erdCalCOFIzoovol::ship_code",
+    "siocalcofiHydroCast::ship_code"
+  ],
+  "ship code": [
+    "erdCalCOFINOAAhydros::ship_code",
+    "erdCalCOFIcufes::ship_code",
+    "erdCalCOFIeggcnt::ship_code",
+    "erdCalCOFIeggstg::ship_code",
+    "erdCalCOFIinvcnt::ship_code",
+    "erdCalCOFIinvsiz::ship_code",
+    "erdCalCOFIlrvcnt::ship_code",
+    "erdCalCOFIlrvsiz::ship_code",
+    "erdCalCOFIlrvstg::ship_code",
+    "erdCalCOFItows::ship_code",
+    "erdCalCOFIzoovol::ship_code",
+    "siocalcofiHydroCast::ship_code"
+  ],
+  "two-digit calcofi ship code": [
+    "erdCalCOFINOAAhydros::ship_code",
+    "erdCalCOFIcufes::ship_code",
+    "erdCalCOFIeggcnt::ship_code",
+    "erdCalCOFIeggstg::ship_code",
+    "erdCalCOFIinvcnt::ship_code",
+    "erdCalCOFIinvsiz::ship_code",
+    "erdCalCOFIlrvcnt::ship_code",
+    "erdCalCOFIlrvsiz::ship_code",
+    "erdCalCOFIlrvstg::ship_code",
+    "erdCalCOFItows::ship_code",
+    "erdCalCOFIzoovol::ship_code"
+  ],
+  "sample_number": [
+    "erdCalCOFIcufes::sample_number"
+  ],
+  "sample number": [
+    "erdCalCOFIcufes::sample_number"
+  ],
+  "integer sample identifier within cruise and ship": [
+    "erdCalCOFIcufes::sample_number"
+  ],
+  "time": [
+    "erdCalCOFINOAAhydros::time",
+    "erdCalCOFIcufes::stop_time",
+    "erdCalCOFIcufes::time",
+    "erdCalCOFIeggcnt::time",
+    "erdCalCOFIeggstg::time",
+    "erdCalCOFIinvcnt::time",
+    "erdCalCOFIinvsiz::time",
+    "erdCalCOFIlrvcnt::time",
+    "erdCalCOFIlrvsiz::time",
+    "erdCalCOFIlrvstg::time",
+    "erdCalCOFItows::end_time",
+    "erdCalCOFItows::time",
+    "erdCalCOFIzoovol::time",
+    "siocalcofiHydroBottle::inctim",
+    "siocalcofiHydroBottle::time",
+    "siocalcofiHydroCast::civil_t",
+    "siocalcofiHydroCast::date",
+    "siocalcofiHydroCast::inc_end",
+    "siocalcofiHydroCast::inc_str",
+    "siocalcofiHydroCast::julian_date",
+    "siocalcofiHydroCast::julian_day",
+    "siocalcofiHydroCast::month",
+    "siocalcofiHydroCast::pst_lan",
+    "siocalcofiHydroCast::quarter",
+    "siocalcofiHydroCast::time",
+    "siocalcofiHydroCast::time_string",
+    "siocalcofiHydroCast::timezone",
+    "siocalcofiHydroCast::year"
+  ],
+  "start time": [
+    "erdCalCOFIcufes::time"
+  ],
+  "datetime at start of the sample collection (yyyy-mm-dd't'hh:mm:ss'z')": [
+    "erdCalCOFIcufes::time"
+  ],
+  "latitude": [
+    "erdCalCOFINOAAhydros::latitude",
+    "erdCalCOFIcufes::latitude",
+    "erdCalCOFIeggcnt::latitude",
+    "erdCalCOFIeggstg::latitude",
+    "erdCalCOFIinvcnt::latitude",
+    "erdCalCOFIinvsiz::latitude",
+    "erdCalCOFIlrvcnt::latitude",
+    "erdCalCOFIlrvsiz::latitude",
+    "erdCalCOFIlrvstg::latitude",
+    "erdCalCOFItows::latitude",
+    "erdCalCOFIzoovol::latitude",
+    "siocalcofiHydroBottle::latitude",
+    "siocalcofiHydroCast::latitude"
+  ],
+  "start latitude": [
+    "erdCalCOFIcufes::latitude"
+  ],
+  "location": [
+    "erdCalCOFINOAAhydros::ctd_depth",
+    "erdCalCOFINOAAhydros::latitude",
+    "erdCalCOFINOAAhydros::line",
+    "erdCalCOFINOAAhydros::longitude",
+    "erdCalCOFINOAAhydros::station",
+    "erdCalCOFIcufes::latitude",
+    "erdCalCOFIcufes::longitude",
+    "erdCalCOFIcufes::stop_latitude",
+    "erdCalCOFIcufes::stop_longitude",
+    "erdCalCOFIeggcnt::latitude",
+    "erdCalCOFIeggcnt::line",
+    "erdCalCOFIeggcnt::longitude",
+    "erdCalCOFIeggcnt::station",
+    "erdCalCOFIeggstg::latitude",
+    "erdCalCOFIeggstg::line",
+    "erdCalCOFIeggstg::longitude",
+    "erdCalCOFIeggstg::station",
+    "erdCalCOFIinvcnt::latitude",
+    "erdCalCOFIinvcnt::line",
+    "erdCalCOFIinvcnt::longitude",
+    "erdCalCOFIinvcnt::station",
+    "erdCalCOFIinvsiz::latitude",
+    "erdCalCOFIinvsiz::line",
+    "erdCalCOFIinvsiz::longitude",
+    "erdCalCOFIinvsiz::station",
+    "erdCalCOFIlrvcnt::latitude",
+    "erdCalCOFIlrvcnt::line",
+    "erdCalCOFIlrvcnt::longitude",
+    "erdCalCOFIlrvcnt::station",
+    "erdCalCOFIlrvsiz::latitude",
+    "erdCalCOFIlrvsiz::line",
+    "erdCalCOFIlrvsiz::longitude",
+    "erdCalCOFIlrvsiz::station",
+    "erdCalCOFIlrvstg::latitude",
+    "erdCalCOFIlrvstg::line",
+    "erdCalCOFIlrvstg::longitude",
+    "erdCalCOFIlrvstg::station",
+    "erdCalCOFItows::latitude",
+    "erdCalCOFItows::line",
+    "erdCalCOFItows::longitude",
+    "erdCalCOFItows::station",
+    "erdCalCOFIzoovol::latitude",
+    "erdCalCOFIzoovol::line",
+    "erdCalCOFIzoovol::longitude",
+    "erdCalCOFIzoovol::station",
+    "siocalcofiHydroBottle::latitude",
+    "siocalcofiHydroBottle::longitude",
+    "siocalcofiHydroCast::distance",
+    "siocalcofiHydroCast::lat_deg",
+    "siocalcofiHydroCast::lat_hem",
+    "siocalcofiHydroCast::lat_min",
+    "siocalcofiHydroCast::latitude",
+    "siocalcofiHydroCast::lon_deg",
+    "siocalcofiHydroCast::lon_hem",
+    "siocalcofiHydroCast::lon_min",
+    "siocalcofiHydroCast::longitude"
+  ],
+  "latitude at start of cufes sample collection": [
+    "erdCalCOFIcufes::latitude"
+  ],
+  "longitude": [
+    "erdCalCOFINOAAhydros::longitude",
+    "erdCalCOFIcufes::longitude",
+    "erdCalCOFIeggcnt::longitude",
+    "erdCalCOFIeggstg::longitude",
+    "erdCalCOFIinvcnt::longitude",
+    "erdCalCOFIinvsiz::longitude",
+    "erdCalCOFIlrvcnt::longitude",
+    "erdCalCOFIlrvsiz::longitude",
+    "erdCalCOFIlrvstg::longitude",
+    "erdCalCOFItows::longitude",
+    "erdCalCOFIzoovol::longitude",
+    "siocalcofiHydroBottle::longitude",
+    "siocalcofiHydroCast::longitude"
+  ],
+  "start longitude": [
+    "erdCalCOFIcufes::longitude"
+  ],
+  "longitude at start of cufes sample collection": [
+    "erdCalCOFIcufes::longitude"
+  ],
+  "start_temperature": [
+    "erdCalCOFIcufes::start_temperature"
+  ],
+  "start temperature": [
+    "erdCalCOFIcufes::start_temperature"
+  ],
+  "sea-surface temperature at start of sample collection": [
+    "erdCalCOFIcufes::start_temperature"
+  ],
+  "temperature": [
+    "erdCalCOFINOAAhydros::temperature",
+    "erdCalCOFIcufes::start_temperature",
+    "erdCalCOFIcufes::stop_temperature",
+    "siocalcofiHydroBottle::r_depth",
+    "siocalcofiHydroBottle::t_degc",
+    "siocalcofiHydroCast::dry_t",
+    "siocalcofiHydroCast::wet_t"
+  ],
+  "start_salinity": [
+    "erdCalCOFIcufes::start_salinity"
+  ],
+  "start salinity": [
+    "erdCalCOFIcufes::start_salinity"
+  ],
+  "sea-surface salinity at start of sample collection": [
+    "erdCalCOFIcufes::start_salinity"
+  ],
+  "salinity": [
+    "erdCalCOFINOAAhydros::salinity",
+    "erdCalCOFIcufes::start_salinity",
+    "erdCalCOFIcufes::stop_salinity",
+    "siocalcofiHydroBottle::salinity"
+  ],
+  "start_wind_speed": [
+    "erdCalCOFIcufes::start_wind_speed"
+  ],
+  "start wind speed": [
+    "erdCalCOFIcufes::start_wind_speed"
+  ],
+  "wind": [
+    "erdCalCOFIcufes::start_wind_direction",
+    "erdCalCOFIcufes::start_wind_speed",
+    "erdCalCOFIcufes::stop_wind_direction",
+    "erdCalCOFIcufes::stop_wind_speed",
+    "siocalcofiHydroCast::wind_dir",
+    "siocalcofiHydroCast::wind_spd"
+  ],
+  "wind speed at start of sample collection": [
+    "erdCalCOFIcufes::start_wind_speed"
+  ],
+  "start_wind_direction": [
+    "erdCalCOFIcufes::start_wind_direction"
+  ],
+  "start wind direction": [
+    "erdCalCOFIcufes::start_wind_direction"
+  ],
+  "wind direction at start of sample collection": [
+    "erdCalCOFIcufes::start_wind_direction"
+  ],
+  "start_pump_speed": [
+    "erdCalCOFIcufes::start_pump_speed"
+  ],
+  "start pump speed": [
+    "erdCalCOFIcufes::start_pump_speed"
+  ],
+  "cufes pump speed at start of sample collection": [
+    "erdCalCOFIcufes::start_pump_speed"
+  ],
+  "other": [
+    "CAC_FI_SBAS_obs::behavior",
+    "CAC_FI_SBAS_obs::count",
+    "CAC_FI_SBAS_obs::gis_key",
+    "CAC_FI_SBAS_obs::idnum",
+    "CAC_FI_SBAS_obs::species",
+    "CAC_FI_SBAS_sp::common_name",
+    "CAC_FI_SBAS_sp::scientific_name",
+    "CAC_FI_SBAS_sp::species",
+    "CAC_FI_SBAS_sp::type",
+    "erdCalCOFIcufes::start_pump_speed",
+    "erdCalCOFIcufes::stop_pump_speed",
+    "erdCalCOFIeggcnt::proportion_sorted",
+    "erdCalCOFIeggcnt::standard_haul_factor",
+    "erdCalCOFIeggcnt::volume_sampled",
+    "erdCalCOFIeggstg::proportion_sorted",
+    "erdCalCOFIeggstg::standard_haul_factor",
+    "erdCalCOFIeggstg::volume_sampled",
+    "erdCalCOFIinvcnt::proportion_sorted",
+    "erdCalCOFIinvcnt::standard_haul_factor",
+    "erdCalCOFIinvcnt::volume_sampled",
+    "erdCalCOFIinvsiz::proportion_sorted",
+    "erdCalCOFIinvsiz::standard_haul_factor",
+    "erdCalCOFIinvsiz::volume_sampled",
+    "erdCalCOFIlrvcnt::proportion_sorted",
+    "erdCalCOFIlrvcnt::standard_haul_factor",
+    "erdCalCOFIlrvcnt::volume_sampled",
+    "erdCalCOFIlrvsiz::proportion_sorted",
+    "erdCalCOFIlrvsiz::standard_haul_factor",
+    "erdCalCOFIlrvsiz::volume_sampled",
+    "erdCalCOFIlrvstg::proportion_sorted",
+    "erdCalCOFIlrvstg::standard_haul_factor",
+    "erdCalCOFIlrvstg::volume_sampled",
+    "erdCalCOFItows::mesh_size",
+    "erdCalCOFItows::proportion_sorted",
+    "erdCalCOFItows::standard_haul_factor",
+    "erdCalCOFItows::volume_sampled",
+    "erdCalCOFIzoovol::volume_sampled",
+    "siocalcofiHydroBottle::c14a1q",
+    "siocalcofiHydroBottle::c14a2q",
+    "siocalcofiHydroBottle::c14as1",
+    "siocalcofiHydroBottle::c14as2",
+    "siocalcofiHydroBottle::darkaq",
+    "siocalcofiHydroBottle::darkas",
+    "siocalcofiHydroBottle::dic1",
+    "siocalcofiHydroBottle::dic2",
+    "siocalcofiHydroBottle::dic_quality_comment",
+    "siocalcofiHydroBottle::lightp",
+    "siocalcofiHydroBottle::meanaq",
+    "siocalcofiHydroBottle::meanas",
+    "siocalcofiHydroBottle::nh3um",
+    "siocalcofiHydroBottle::no2um",
+    "siocalcofiHydroBottle::no3um",
+    "siocalcofiHydroBottle::o2ml_l",
+    "siocalcofiHydroBottle::o2sat",
+    "siocalcofiHydroBottle::oxy",
+    "siocalcofiHydroBottle::ph1",
+    "siocalcofiHydroBottle::ph2",
+    "siocalcofiHydroBottle::phaeop",
+    "siocalcofiHydroBottle::po4um",
+    "siocalcofiHydroBottle::r_dynht",
+    "siocalcofiHydroBottle::r_nuts",
+    "siocalcofiHydroBottle::r_sal",
+    "siocalcofiHydroBottle::r_temp",
+    "siocalcofiHydroBottle::s_prec",
+    "siocalcofiHydroBottle::sio3um",
+    "siocalcofiHydroBottle::stheta",
+    "siocalcofiHydroBottle::t_prec",
+    "siocalcofiHydroBottle::ta1",
+    "siocalcofiHydroBottle::ta2",
+    "siocalcofiHydroCast::intc14"
+  ],
+  "stop_time": [
+    "erdCalCOFIcufes::stop_time"
+  ],
+  "stop time": [
+    "erdCalCOFIcufes::stop_time"
+  ],
+  "datetime at end of the sample collection (yyyy-mm-dd't'hh:mm:ss'z')": [
+    "erdCalCOFIcufes::stop_time"
+  ],
+  "stop_latitude": [
+    "erdCalCOFIcufes::stop_latitude"
+  ],
+  "stop latitude": [
+    "erdCalCOFIcufes::stop_latitude"
+  ],
+  "latitude at end of cufes sample collection": [
+    "erdCalCOFIcufes::stop_latitude"
+  ],
+  "stop_longitude": [
+    "erdCalCOFIcufes::stop_longitude"
+  ],
+  "stop longitude": [
+    "erdCalCOFIcufes::stop_longitude"
+  ],
+  "longitude at end of cufes sample collection": [
+    "erdCalCOFIcufes::stop_longitude"
+  ],
+  "stop_temperature": [
+    "erdCalCOFIcufes::stop_temperature"
+  ],
+  "stop temperature": [
+    "erdCalCOFIcufes::stop_temperature"
+  ],
+  "sea-surface temperature at end of sample collection": [
+    "erdCalCOFIcufes::stop_temperature"
+  ],
+  "stop_salinity": [
+    "erdCalCOFIcufes::stop_salinity"
+  ],
+  "stop salinity": [
+    "erdCalCOFIcufes::stop_salinity"
+  ],
+  "sea-surface salinity at end of sample collection": [
+    "erdCalCOFIcufes::stop_salinity"
+  ],
+  "stop_wind_speed": [
+    "erdCalCOFIcufes::stop_wind_speed"
+  ],
+  "stop wind speed": [
+    "erdCalCOFIcufes::stop_wind_speed"
+  ],
+  "wind speed at end of sample collection": [
+    "erdCalCOFIcufes::stop_wind_speed"
+  ],
+  "stop_wind_direction": [
+    "erdCalCOFIcufes::stop_wind_direction"
+  ],
+  "stop wind direction": [
+    "erdCalCOFIcufes::stop_wind_direction"
+  ],
+  "wind direction at end of sample collection": [
+    "erdCalCOFIcufes::stop_wind_direction"
+  ],
+  "stop_pump_speed": [
+    "erdCalCOFIcufes::stop_pump_speed"
+  ],
+  "stop pump speed": [
+    "erdCalCOFIcufes::stop_pump_speed"
+  ],
+  "cufes pump speed at end of sample collection": [
+    "erdCalCOFIcufes::stop_pump_speed"
+  ],
+  "sardine_eggs": [
+    "erdCalCOFIcufes::sardine_eggs"
+  ],
+  "sardine eggs": [
+    "erdCalCOFIcufes::sardine_eggs"
+  ],
+  "number of sardine sardinops sagax eggs captured in the sample": [
+    "erdCalCOFIcufes::sardine_eggs"
+  ],
+  "fish abundance": [
+    "erdCalCOFIcufes::anchovy_eggs",
+    "erdCalCOFIcufes::hake_eggs",
+    "erdCalCOFIcufes::jack_mackerel_eggs",
+    "erdCalCOFIcufes::other_fish_eggs",
+    "erdCalCOFIcufes::sardine_eggs",
+    "erdCalCOFIcufes::squid_eggs",
+    "erdCalCOFIeggcnt::egg_count",
+    "erdCalCOFIeggcnt::eggs_100m3",
+    "erdCalCOFIeggcnt::eggs_10m2",
+    "erdCalCOFIeggstg::egg_stage_count",
+    "erdCalCOFIeggstg::eggs_100m3",
+    "erdCalCOFIeggstg::eggs_10m2",
+    "erdCalCOFIlrvcnt::larvae_100m3",
+    "erdCalCOFIlrvcnt::larvae_10m2",
+    "erdCalCOFIlrvcnt::larvae_count",
+    "erdCalCOFIlrvsiz::larvae_100m3",
+    "erdCalCOFIlrvsiz::larvae_10m2",
+    "erdCalCOFIlrvsiz::larvae_count",
+    "erdCalCOFIlrvstg::larvae_100m3",
+    "erdCalCOFIlrvstg::larvae_10m2",
+    "erdCalCOFIlrvstg::larvae_stage_count"
+  ],
+  "anchovy_eggs": [
+    "erdCalCOFIcufes::anchovy_eggs"
+  ],
+  "anchovy eggs": [
+    "erdCalCOFIcufes::anchovy_eggs"
+  ],
+  "number of anchovy engraulis mordax eggs captured in the sample": [
+    "erdCalCOFIcufes::anchovy_eggs"
+  ],
+  "jack_mackerel_eggs": [
+    "erdCalCOFIcufes::jack_mackerel_eggs"
+  ],
+  "jack mackerel eggs": [
+    "erdCalCOFIcufes::jack_mackerel_eggs"
+  ],
+  "number of jack mackerel trachurus symmetricus eggs captured in the sample": [
+    "erdCalCOFIcufes::jack_mackerel_eggs"
+  ],
+  "hake_eggs": [
+    "erdCalCOFIcufes::hake_eggs"
+  ],
+  "hake eggs": [
+    "erdCalCOFIcufes::hake_eggs"
+  ],
+  "number of hake merluccius productus eggs captured in the sample": [
+    "erdCalCOFIcufes::hake_eggs"
+  ],
+  "squid_eggs": [
+    "erdCalCOFIcufes::squid_eggs"
+  ],
+  "squid eggs": [
+    "erdCalCOFIcufes::squid_eggs"
+  ],
+  "number of unidentified squid eggs captured in the sample": [
+    "erdCalCOFIcufes::squid_eggs"
+  ],
+  "other_fish_eggs": [
+    "erdCalCOFIcufes::other_fish_eggs"
+  ],
+  "other fish eggs": [
+    "erdCalCOFIcufes::other_fish_eggs"
+  ],
+  "number of unidentified fish eggs captured in the sample": [
+    "erdCalCOFIcufes::other_fish_eggs"
+  ],
+  "order_occupied": [
+    "erdCalCOFINOAAhydros::order_occupied",
+    "erdCalCOFIeggcnt::order_occupied",
+    "erdCalCOFIeggstg::order_occupied",
+    "erdCalCOFIinvcnt::order_occupied",
+    "erdCalCOFIinvsiz::order_occupied",
+    "erdCalCOFIlrvcnt::order_occupied",
+    "erdCalCOFIlrvsiz::order_occupied",
+    "erdCalCOFIlrvstg::order_occupied",
+    "erdCalCOFItows::order_occupied",
+    "erdCalCOFIzoovol::order_occupied"
+  ],
+  "order occupied": [
+    "erdCalCOFINOAAhydros::order_occupied",
+    "erdCalCOFIeggcnt::order_occupied",
+    "erdCalCOFIeggstg::order_occupied",
+    "erdCalCOFIinvcnt::order_occupied",
+    "erdCalCOFIinvsiz::order_occupied",
+    "erdCalCOFIlrvcnt::order_occupied",
+    "erdCalCOFIlrvsiz::order_occupied",
+    "erdCalCOFIlrvstg::order_occupied",
+    "erdCalCOFItows::order_occupied",
+    "erdCalCOFIzoovol::order_occupied",
+    "siocalcofiHydroCast::order_occ"
+  ],
+  "ordinal number in which the station was sampled for the cruise and ship": [
+    "erdCalCOFINOAAhydros::order_occupied",
+    "erdCalCOFIeggcnt::order_occupied",
+    "erdCalCOFIeggstg::order_occupied",
+    "erdCalCOFIinvcnt::order_occupied",
+    "erdCalCOFIinvsiz::order_occupied",
+    "erdCalCOFIlrvcnt::order_occupied",
+    "erdCalCOFIlrvsiz::order_occupied",
+    "erdCalCOFIlrvstg::order_occupied",
+    "erdCalCOFItows::order_occupied",
+    "erdCalCOFIzoovol::order_occupied"
+  ],
+  "tow_type": [
+    "erdCalCOFIeggcnt::tow_type",
+    "erdCalCOFIeggstg::tow_type",
+    "erdCalCOFIinvcnt::tow_type",
+    "erdCalCOFIinvsiz::tow_type",
+    "erdCalCOFIlrvcnt::tow_type",
+    "erdCalCOFIlrvsiz::tow_type",
+    "erdCalCOFIlrvstg::tow_type",
+    "erdCalCOFItows::tow_type",
+    "erdCalCOFIzoovol::tow_type"
+  ],
+  "tow type": [
+    "erdCalCOFIeggcnt::tow_type",
+    "erdCalCOFIeggstg::tow_type",
+    "erdCalCOFIinvcnt::tow_type",
+    "erdCalCOFIinvsiz::tow_type",
+    "erdCalCOFIlrvcnt::tow_type",
+    "erdCalCOFIlrvsiz::tow_type",
+    "erdCalCOFIlrvstg::tow_type",
+    "erdCalCOFItows::tow_type",
+    "erdCalCOFIzoovol::tow_type"
+  ],
+  "net gear type. see the calcofi tow types table.": [
+    "erdCalCOFIeggcnt::tow_type",
+    "erdCalCOFIeggstg::tow_type",
+    "erdCalCOFIinvcnt::tow_type",
+    "erdCalCOFIinvsiz::tow_type",
+    "erdCalCOFIlrvcnt::tow_type",
+    "erdCalCOFIlrvsiz::tow_type",
+    "erdCalCOFIlrvstg::tow_type",
+    "erdCalCOFItows::tow_type",
+    "erdCalCOFIzoovol::tow_type"
+  ],
+  "tow_number": [
+    "erdCalCOFIeggcnt::tow_number",
+    "erdCalCOFIeggstg::tow_number",
+    "erdCalCOFIinvcnt::tow_number",
+    "erdCalCOFIinvsiz::tow_number",
+    "erdCalCOFIlrvcnt::tow_number",
+    "erdCalCOFIlrvsiz::tow_number",
+    "erdCalCOFIlrvstg::tow_number",
+    "erdCalCOFItows::tow_number",
+    "erdCalCOFIzoovol::tow_number"
+  ],
+  "tow number": [
+    "erdCalCOFIeggcnt::tow_number",
+    "erdCalCOFIeggstg::tow_number",
+    "erdCalCOFIinvcnt::tow_number",
+    "erdCalCOFIinvsiz::tow_number",
+    "erdCalCOFIlrvcnt::tow_number",
+    "erdCalCOFIlrvsiz::tow_number",
+    "erdCalCOFIlrvstg::tow_number",
+    "erdCalCOFItows::tow_number",
+    "erdCalCOFIzoovol::tow_number"
+  ],
+  "replicate tow number for the station, net type, and location": [
+    "erdCalCOFIeggcnt::tow_number",
+    "erdCalCOFIeggstg::tow_number",
+    "erdCalCOFIinvcnt::tow_number",
+    "erdCalCOFIinvsiz::tow_number",
+    "erdCalCOFIlrvcnt::tow_number",
+    "erdCalCOFIlrvsiz::tow_number",
+    "erdCalCOFIlrvstg::tow_number",
+    "erdCalCOFItows::tow_number",
+    "erdCalCOFIzoovol::tow_number"
+  ],
+  "net_location": [
+    "erdCalCOFIeggcnt::net_location",
+    "erdCalCOFIeggstg::net_location",
+    "erdCalCOFIinvcnt::net_location",
+    "erdCalCOFIinvsiz::net_location",
+    "erdCalCOFIlrvcnt::net_location",
+    "erdCalCOFIlrvsiz::net_location",
+    "erdCalCOFIlrvstg::net_location",
+    "erdCalCOFItows::net_location",
+    "erdCalCOFIzoovol::net_location"
+  ],
+  "net location (side)": [
+    "erdCalCOFIeggcnt::net_location",
+    "erdCalCOFIeggstg::net_location",
+    "erdCalCOFIinvcnt::net_location",
+    "erdCalCOFIinvsiz::net_location",
+    "erdCalCOFIlrvcnt::net_location",
+    "erdCalCOFIlrvsiz::net_location",
+    "erdCalCOFIlrvstg::net_location",
+    "erdCalCOFItows::net_location",
+    "erdCalCOFIzoovol::net_location"
+  ],
+  "port or starboard location of net for paired tow types (e.g., bongo or pairovet)": [
+    "erdCalCOFIeggcnt::net_location",
+    "erdCalCOFIeggstg::net_location",
+    "erdCalCOFIinvcnt::net_location",
+    "erdCalCOFIinvsiz::net_location",
+    "erdCalCOFIlrvcnt::net_location",
+    "erdCalCOFIlrvsiz::net_location",
+    "erdCalCOFIlrvstg::net_location",
+    "erdCalCOFItows::net_location",
+    "erdCalCOFIzoovol::net_location"
+  ],
+  "tow start time (yyyy-mm-dd't'hh:mm:ss'z')": [
+    "erdCalCOFIeggcnt::time",
+    "erdCalCOFIeggstg::time",
+    "erdCalCOFIinvcnt::time",
+    "erdCalCOFIinvsiz::time",
+    "erdCalCOFIlrvcnt::time",
+    "erdCalCOFIlrvsiz::time",
+    "erdCalCOFIlrvstg::time",
+    "erdCalCOFItows::time",
+    "erdCalCOFIzoovol::time"
+  ],
+  "latitude of station": [
+    "erdCalCOFINOAAhydros::latitude",
+    "erdCalCOFIeggcnt::latitude",
+    "erdCalCOFIeggstg::latitude",
+    "erdCalCOFIinvcnt::latitude",
+    "erdCalCOFIinvsiz::latitude",
+    "erdCalCOFIlrvcnt::latitude",
+    "erdCalCOFIlrvsiz::latitude",
+    "erdCalCOFIlrvstg::latitude",
+    "erdCalCOFItows::latitude",
+    "erdCalCOFIzoovol::latitude"
+  ],
+  "longitude of station": [
+    "erdCalCOFINOAAhydros::longitude",
+    "erdCalCOFIeggcnt::longitude",
+    "erdCalCOFIeggstg::longitude",
+    "erdCalCOFIinvcnt::longitude",
+    "erdCalCOFIinvsiz::longitude",
+    "erdCalCOFIlrvcnt::longitude",
+    "erdCalCOFIlrvsiz::longitude",
+    "erdCalCOFIlrvstg::longitude",
+    "erdCalCOFItows::longitude",
+    "erdCalCOFIzoovol::longitude"
+  ],
+  "line": [
+    "erdCalCOFINOAAhydros::line",
+    "erdCalCOFIeggcnt::line",
+    "erdCalCOFIeggstg::line",
+    "erdCalCOFIinvcnt::line",
+    "erdCalCOFIinvsiz::line",
+    "erdCalCOFIlrvcnt::line",
+    "erdCalCOFIlrvsiz::line",
+    "erdCalCOFIlrvstg::line",
+    "erdCalCOFItows::line",
+    "erdCalCOFIzoovol::line"
+  ],
+  "calcofi line": [
+    "erdCalCOFINOAAhydros::line",
+    "erdCalCOFIeggcnt::line",
+    "erdCalCOFIeggstg::line",
+    "erdCalCOFIinvcnt::line",
+    "erdCalCOFIinvsiz::line",
+    "erdCalCOFIlrvcnt::line",
+    "erdCalCOFIlrvsiz::line",
+    "erdCalCOFIlrvstg::line",
+    "erdCalCOFItows::line",
+    "erdCalCOFIzoovol::line"
+  ],
+  "nominal calcofi line": [
+    "erdCalCOFINOAAhydros::line",
+    "erdCalCOFIeggcnt::line",
+    "erdCalCOFIeggstg::line",
+    "erdCalCOFIinvcnt::line",
+    "erdCalCOFIinvsiz::line",
+    "erdCalCOFIlrvcnt::line",
+    "erdCalCOFIlrvsiz::line",
+    "erdCalCOFIlrvstg::line",
+    "erdCalCOFItows::line",
+    "erdCalCOFIzoovol::line",
+    "siocalcofiHydroCast::st_line"
+  ],
+  "station": [
+    "erdCalCOFINOAAhydros::station",
+    "erdCalCOFIeggcnt::station",
+    "erdCalCOFIeggstg::station",
+    "erdCalCOFIinvcnt::station",
+    "erdCalCOFIinvsiz::station",
+    "erdCalCOFIlrvcnt::station",
+    "erdCalCOFIlrvsiz::station",
+    "erdCalCOFIlrvstg::station",
+    "erdCalCOFItows::station",
+    "erdCalCOFIzoovol::station",
+    "siocalcofiHydroCast::sta_code"
+  ],
+  "calcofi station": [
+    "erdCalCOFINOAAhydros::station",
+    "erdCalCOFIeggcnt::station",
+    "erdCalCOFIeggstg::station",
+    "erdCalCOFIinvcnt::station",
+    "erdCalCOFIinvsiz::station",
+    "erdCalCOFIlrvcnt::station",
+    "erdCalCOFIlrvsiz::station",
+    "erdCalCOFIlrvstg::station",
+    "erdCalCOFItows::station",
+    "erdCalCOFIzoovol::station"
+  ],
+  "nominal calcofi station": [
+    "erdCalCOFINOAAhydros::station",
+    "erdCalCOFIeggcnt::station",
+    "erdCalCOFIeggstg::station",
+    "erdCalCOFIinvcnt::station",
+    "erdCalCOFIinvsiz::station",
+    "erdCalCOFIlrvcnt::station",
+    "erdCalCOFIlrvsiz::station",
+    "erdCalCOFIlrvstg::station",
+    "erdCalCOFItows::station",
+    "erdCalCOFIzoovol::station",
+    "siocalcofiHydroCast::st_station"
+  ],
+  "standard_haul_factor": [
+    "erdCalCOFIeggcnt::standard_haul_factor",
+    "erdCalCOFIeggstg::standard_haul_factor",
+    "erdCalCOFIinvcnt::standard_haul_factor",
+    "erdCalCOFIinvsiz::standard_haul_factor",
+    "erdCalCOFIlrvcnt::standard_haul_factor",
+    "erdCalCOFIlrvsiz::standard_haul_factor",
+    "erdCalCOFIlrvstg::standard_haul_factor",
+    "erdCalCOFItows::standard_haul_factor"
+  ],
+  "standard haul factor": [
+    "erdCalCOFIeggcnt::standard_haul_factor",
+    "erdCalCOFIeggstg::standard_haul_factor",
+    "erdCalCOFIinvcnt::standard_haul_factor",
+    "erdCalCOFIinvsiz::standard_haul_factor",
+    "erdCalCOFIlrvcnt::standard_haul_factor",
+    "erdCalCOFIlrvsiz::standard_haul_factor",
+    "erdCalCOFIlrvstg::standard_haul_factor",
+    "erdCalCOFItows::standard_haul_factor"
+  ],
+  "number used to standardize tows to catch per 10 meters squared of sea surface. see kramer and smith and richardson references on the infosheet url for details.": [
+    "erdCalCOFIeggcnt::standard_haul_factor",
+    "erdCalCOFIeggstg::standard_haul_factor",
+    "erdCalCOFIinvcnt::standard_haul_factor",
+    "erdCalCOFIinvsiz::standard_haul_factor",
+    "erdCalCOFIlrvcnt::standard_haul_factor",
+    "erdCalCOFIlrvsiz::standard_haul_factor",
+    "erdCalCOFIlrvstg::standard_haul_factor"
+  ],
+  "volume_sampled": [
+    "erdCalCOFIeggcnt::volume_sampled",
+    "erdCalCOFIeggstg::volume_sampled",
+    "erdCalCOFIinvcnt::volume_sampled",
+    "erdCalCOFIinvsiz::volume_sampled",
+    "erdCalCOFIlrvcnt::volume_sampled",
+    "erdCalCOFIlrvsiz::volume_sampled",
+    "erdCalCOFIlrvstg::volume_sampled",
+    "erdCalCOFItows::volume_sampled",
+    "erdCalCOFIzoovol::volume_sampled"
+  ],
+  "volume sampled": [
+    "erdCalCOFIeggcnt::volume_sampled",
+    "erdCalCOFIeggstg::volume_sampled",
+    "erdCalCOFIinvcnt::volume_sampled",
+    "erdCalCOFIinvsiz::volume_sampled",
+    "erdCalCOFIlrvcnt::volume_sampled",
+    "erdCalCOFIlrvsiz::volume_sampled",
+    "erdCalCOFIlrvstg::volume_sampled",
+    "erdCalCOFItows::volume_sampled",
+    "erdCalCOFIzoovol::volume_sampled"
+  ],
+  "volume of water sampled by the net": [
+    "erdCalCOFIeggcnt::volume_sampled",
+    "erdCalCOFIeggstg::volume_sampled",
+    "erdCalCOFIinvcnt::volume_sampled",
+    "erdCalCOFIinvsiz::volume_sampled",
+    "erdCalCOFIlrvcnt::volume_sampled",
+    "erdCalCOFIlrvsiz::volume_sampled",
+    "erdCalCOFIlrvstg::volume_sampled",
+    "erdCalCOFItows::volume_sampled",
+    "erdCalCOFIzoovol::volume_sampled"
+  ],
+  "proportion_sorted": [
+    "erdCalCOFIeggcnt::proportion_sorted",
+    "erdCalCOFIeggstg::proportion_sorted",
+    "erdCalCOFIinvcnt::proportion_sorted",
+    "erdCalCOFIinvsiz::proportion_sorted",
+    "erdCalCOFIlrvcnt::proportion_sorted",
+    "erdCalCOFIlrvsiz::proportion_sorted",
+    "erdCalCOFIlrvstg::proportion_sorted",
+    "erdCalCOFItows::proportion_sorted"
+  ],
+  "proportion sorted": [
+    "erdCalCOFIeggcnt::proportion_sorted",
+    "erdCalCOFIeggstg::proportion_sorted",
+    "erdCalCOFIinvcnt::proportion_sorted",
+    "erdCalCOFIinvsiz::proportion_sorted",
+    "erdCalCOFIlrvcnt::proportion_sorted",
+    "erdCalCOFIlrvsiz::proportion_sorted",
+    "erdCalCOFIlrvstg::proportion_sorted",
+    "erdCalCOFItows::proportion_sorted"
+  ],
+  "proportion of the net sample that was sorted in the laboratory": [
+    "erdCalCOFIeggcnt::proportion_sorted",
+    "erdCalCOFIeggstg::proportion_sorted",
+    "erdCalCOFIinvcnt::proportion_sorted",
+    "erdCalCOFIinvsiz::proportion_sorted",
+    "erdCalCOFIlrvcnt::proportion_sorted",
+    "erdCalCOFIlrvsiz::proportion_sorted",
+    "erdCalCOFIlrvstg::proportion_sorted",
+    "erdCalCOFItows::proportion_sorted"
+  ],
+  "scientific_name": [
+    "CAC_FI_SBAS_sp::scientific_name",
+    "erdCalCOFIeggcnt::scientific_name",
+    "erdCalCOFIeggstg::scientific_name",
+    "erdCalCOFIinvcnt::scientific_name",
+    "erdCalCOFIinvsiz::scientific_name",
+    "erdCalCOFIlrvcnt::scientific_name",
+    "erdCalCOFIlrvsiz::scientific_name",
+    "erdCalCOFIlrvstg::scientific_name"
+  ],
+  "scientific name": [
+    "erdCalCOFIeggcnt::scientific_name",
+    "erdCalCOFIeggstg::scientific_name",
+    "erdCalCOFIinvcnt::scientific_name",
+    "erdCalCOFIinvsiz::scientific_name",
+    "erdCalCOFIlrvcnt::scientific_name",
+    "erdCalCOFIlrvsiz::scientific_name",
+    "erdCalCOFIlrvstg::scientific_name"
+  ],
+  "species scientific name": [
+    "erdCalCOFIeggcnt::scientific_name",
+    "erdCalCOFIeggstg::scientific_name",
+    "erdCalCOFIinvcnt::scientific_name",
+    "erdCalCOFIinvsiz::scientific_name",
+    "erdCalCOFIlrvcnt::scientific_name",
+    "erdCalCOFIlrvsiz::scientific_name",
+    "erdCalCOFIlrvstg::scientific_name"
+  ],
+  "fish species": [
+    "erdCalCOFIeggcnt::calcofi_species_code",
+    "erdCalCOFIeggcnt::common_name",
+    "erdCalCOFIeggcnt::itis_tsn",
+    "erdCalCOFIeggcnt::scientific_name",
+    "erdCalCOFIeggstg::calcofi_species_code",
+    "erdCalCOFIeggstg::common_name",
+    "erdCalCOFIeggstg::itis_tsn",
+    "erdCalCOFIeggstg::scientific_name",
+    "erdCalCOFIlrvcnt::calcofi_species_code",
+    "erdCalCOFIlrvcnt::common_name",
+    "erdCalCOFIlrvcnt::itis_tsn",
+    "erdCalCOFIlrvcnt::scientific_name",
+    "erdCalCOFIlrvsiz::calcofi_species_code",
+    "erdCalCOFIlrvsiz::common_name",
+    "erdCalCOFIlrvsiz::itis_tsn",
+    "erdCalCOFIlrvsiz::scientific_name",
+    "erdCalCOFIlrvstg::calcofi_species_code",
+    "erdCalCOFIlrvstg::common_name",
+    "erdCalCOFIlrvstg::itis_tsn",
+    "erdCalCOFIlrvstg::scientific_name"
+  ],
+  "common_name": [
+    "CAC_FI_SBAS_sp::common_name",
+    "erdCalCOFIeggcnt::common_name",
+    "erdCalCOFIeggstg::common_name",
+    "erdCalCOFIinvcnt::common_name",
+    "erdCalCOFIinvsiz::common_name",
+    "erdCalCOFIlrvcnt::common_name",
+    "erdCalCOFIlrvsiz::common_name",
+    "erdCalCOFIlrvstg::common_name"
+  ],
+  "common name": [
+    "erdCalCOFIeggcnt::common_name",
+    "erdCalCOFIeggstg::common_name",
+    "erdCalCOFIinvcnt::common_name",
+    "erdCalCOFIinvsiz::common_name",
+    "erdCalCOFIlrvcnt::common_name",
+    "erdCalCOFIlrvsiz::common_name",
+    "erdCalCOFIlrvstg::common_name"
+  ],
+  "species common name": [
+    "erdCalCOFIeggcnt::common_name",
+    "erdCalCOFIeggstg::common_name",
+    "erdCalCOFIinvcnt::common_name",
+    "erdCalCOFIinvsiz::common_name",
+    "erdCalCOFIlrvcnt::common_name",
+    "erdCalCOFIlrvsiz::common_name",
+    "erdCalCOFIlrvstg::common_name"
+  ],
+  "itis_tsn": [
+    "erdCalCOFIeggcnt::itis_tsn",
+    "erdCalCOFIeggstg::itis_tsn",
+    "erdCalCOFIinvcnt::itis_tsn",
+    "erdCalCOFIinvsiz::itis_tsn",
+    "erdCalCOFIlrvcnt::itis_tsn",
+    "erdCalCOFIlrvsiz::itis_tsn",
+    "erdCalCOFIlrvstg::itis_tsn"
+  ],
+  "itis tsn": [
+    "erdCalCOFIeggcnt::itis_tsn",
+    "erdCalCOFIeggstg::itis_tsn",
+    "erdCalCOFIinvcnt::itis_tsn",
+    "erdCalCOFIinvsiz::itis_tsn",
+    "erdCalCOFIlrvcnt::itis_tsn",
+    "erdCalCOFIlrvsiz::itis_tsn",
+    "erdCalCOFIlrvstg::itis_tsn"
+  ],
+  "integrated taxonomic information system taxonomic serial number. http://www.itis.gov/": [
+    "erdCalCOFIeggcnt::itis_tsn",
+    "erdCalCOFIeggstg::itis_tsn",
+    "erdCalCOFIinvcnt::itis_tsn",
+    "erdCalCOFIinvsiz::itis_tsn",
+    "erdCalCOFIlrvcnt::itis_tsn",
+    "erdCalCOFIlrvsiz::itis_tsn",
+    "erdCalCOFIlrvstg::itis_tsn"
+  ],
+  "calcofi_species_code": [
+    "erdCalCOFIeggcnt::calcofi_species_code",
+    "erdCalCOFIeggstg::calcofi_species_code",
+    "erdCalCOFIinvcnt::calcofi_species_code",
+    "erdCalCOFIinvsiz::calcofi_species_code",
+    "erdCalCOFIlrvcnt::calcofi_species_code",
+    "erdCalCOFIlrvsiz::calcofi_species_code",
+    "erdCalCOFIlrvstg::calcofi_species_code"
+  ],
+  "calcofi species code": [
+    "erdCalCOFIeggcnt::calcofi_species_code",
+    "erdCalCOFIeggstg::calcofi_species_code",
+    "erdCalCOFIinvcnt::calcofi_species_code",
+    "erdCalCOFIinvsiz::calcofi_species_code",
+    "erdCalCOFIlrvcnt::calcofi_species_code",
+    "erdCalCOFIlrvsiz::calcofi_species_code",
+    "erdCalCOFIlrvstg::calcofi_species_code"
+  ],
+  "egg_count": [
+    "erdCalCOFIeggcnt::egg_count"
+  ],
+  "egg count": [
+    "erdCalCOFIeggcnt::egg_count",
+    "erdCalCOFIeggstg::egg_stage_count"
+  ],
+  "raw count of eggs": [
+    "erdCalCOFIeggcnt::egg_count",
+    "erdCalCOFIeggstg::egg_stage_count"
+  ],
+  "eggs_10m2": [
+    "erdCalCOFIeggcnt::eggs_10m2",
+    "erdCalCOFIeggstg::eggs_10m2"
+  ],
+  "eggs 10/m^2": [
+    "erdCalCOFIeggcnt::eggs_10m2",
+    "erdCalCOFIeggstg::eggs_10m2"
+  ],
+  "eggs per 10 meters squared of water sampled (oblique and vertical tows)": [
+    "erdCalCOFIeggcnt::eggs_10m2",
+    "erdCalCOFIeggstg::eggs_10m2"
+  ],
+  "eggs_100m3": [
+    "erdCalCOFIeggcnt::eggs_100m3",
+    "erdCalCOFIeggstg::eggs_100m3"
+  ],
+  "eggs 100/m^3": [
+    "erdCalCOFIeggcnt::eggs_100m3",
+    "erdCalCOFIeggstg::eggs_100m3"
+  ],
+  "eggs per 100 cubic meters of water sampled (manta and mocness tows)": [
+    "erdCalCOFIeggcnt::eggs_100m3",
+    "erdCalCOFIeggstg::eggs_100m3"
+  ],
+  "egg_stage": [
+    "erdCalCOFIeggstg::egg_stage"
+  ],
+  "egg stage": [
+    "erdCalCOFIeggstg::egg_stage"
+  ],
+  "egg morphological developmental stage. see moser and ahstrom in info url": [
+    "erdCalCOFIeggstg::egg_stage"
+  ],
+  "egg_stage_count": [
+    "erdCalCOFIeggstg::egg_stage_count"
+  ],
+  "biology": [
+    "erdCalCOFIinvcnt::calcofi_species_code",
+    "erdCalCOFIinvcnt::common_name",
+    "erdCalCOFIinvcnt::invert_count",
+    "erdCalCOFIinvcnt::inverts_100m3",
+    "erdCalCOFIinvcnt::inverts_10m2",
+    "erdCalCOFIinvcnt::itis_tsn",
+    "erdCalCOFIinvcnt::scientific_name",
+    "erdCalCOFIinvsiz::calcofi_species_code",
+    "erdCalCOFIinvsiz::common_name",
+    "erdCalCOFIinvsiz::invert_count",
+    "erdCalCOFIinvsiz::invert_size",
+    "erdCalCOFIinvsiz::inverts_100m3",
+    "erdCalCOFIinvsiz::inverts_10m2",
+    "erdCalCOFIinvsiz::itis_tsn",
+    "erdCalCOFIinvsiz::scientific_name",
+    "erdCalCOFIlrvsiz::larvae_size",
+    "erdCalCOFIlrvstg::larvae_stage"
+  ],
+  "invert_count": [
+    "erdCalCOFIinvcnt::invert_count",
+    "erdCalCOFIinvsiz::invert_count"
+  ],
+  "invertebrate count": [
+    "erdCalCOFIinvcnt::invert_count",
+    "erdCalCOFIinvsiz::invert_count"
+  ],
+  "raw count of (non-zooplankton) invertebrates": [
+    "erdCalCOFIinvcnt::invert_count",
+    "erdCalCOFIinvsiz::invert_count"
+  ],
+  "inverts_10m2": [
+    "erdCalCOFIinvcnt::inverts_10m2",
+    "erdCalCOFIinvsiz::inverts_10m2"
+  ],
+  "invertebrates 10/m^2": [
+    "erdCalCOFIinvcnt::inverts_10m2",
+    "erdCalCOFIinvsiz::inverts_10m2"
+  ],
+  "invertebrates per 10 meters squared of water sampled (oblique and vertical tows)": [
+    "erdCalCOFIinvcnt::inverts_10m2",
+    "erdCalCOFIinvsiz::inverts_10m2"
+  ],
+  "inverts_100m3": [
+    "erdCalCOFIinvcnt::inverts_100m3",
+    "erdCalCOFIinvsiz::inverts_100m3"
+  ],
+  "invertebrates 100/m^3": [
+    "erdCalCOFIinvcnt::inverts_100m3",
+    "erdCalCOFIinvsiz::inverts_100m3"
+  ],
+  "invertebrates per 100 cubic meters of water sampled (manta and mocness tows)": [
+    "erdCalCOFIinvcnt::inverts_100m3",
+    "erdCalCOFIinvsiz::inverts_100m3"
+  ],
+  "invert_size": [
+    "erdCalCOFIinvsiz::invert_size"
+  ],
+  "invertebrate size": [
+    "erdCalCOFIinvsiz::invert_size"
+  ],
+  "total length of invertebrates": [
+    "erdCalCOFIinvsiz::invert_size"
+  ],
+  "larvae_count": [
+    "erdCalCOFIlrvcnt::larvae_count",
+    "erdCalCOFIlrvsiz::larvae_count"
+  ],
+  "larvae count": [
+    "erdCalCOFIlrvcnt::larvae_count",
+    "erdCalCOFIlrvsiz::larvae_count"
+  ],
+  "raw count of larvae": [
+    "erdCalCOFIlrvcnt::larvae_count",
+    "erdCalCOFIlrvsiz::larvae_count"
+  ],
+  "larvae_10m2": [
+    "erdCalCOFIlrvcnt::larvae_10m2",
+    "erdCalCOFIlrvsiz::larvae_10m2",
+    "erdCalCOFIlrvstg::larvae_10m2"
+  ],
+  "larvae 10/m^2": [
+    "erdCalCOFIlrvcnt::larvae_10m2",
+    "erdCalCOFIlrvsiz::larvae_10m2",
+    "erdCalCOFIlrvstg::larvae_10m2"
+  ],
+  "larvae per 10 meters squared of water sampled (oblique and vertical tows)": [
+    "erdCalCOFIlrvcnt::larvae_10m2",
+    "erdCalCOFIlrvsiz::larvae_10m2",
+    "erdCalCOFIlrvstg::larvae_10m2"
+  ],
+  "larvae_100m3": [
+    "erdCalCOFIlrvcnt::larvae_100m3",
+    "erdCalCOFIlrvsiz::larvae_100m3",
+    "erdCalCOFIlrvstg::larvae_100m3"
+  ],
+  "larvae 100/m^3": [
+    "erdCalCOFIlrvcnt::larvae_100m3",
+    "erdCalCOFIlrvsiz::larvae_100m3",
+    "erdCalCOFIlrvstg::larvae_100m3"
+  ],
+  "larvae per 100 cubic meters of water sampled (manta and mocness tows)": [
+    "erdCalCOFIlrvcnt::larvae_100m3",
+    "erdCalCOFIlrvsiz::larvae_100m3",
+    "erdCalCOFIlrvstg::larvae_100m3"
+  ],
+  "larvae_size": [
+    "erdCalCOFIlrvsiz::larvae_size"
+  ],
+  "larvae size": [
+    "erdCalCOFIlrvsiz::larvae_size"
+  ],
+  "total length of the larvae": [
+    "erdCalCOFIlrvsiz::larvae_size"
+  ],
+  "larvae_stage": [
+    "erdCalCOFIlrvstg::larvae_stage"
+  ],
+  "larvae stage": [
+    "erdCalCOFIlrvstg::larvae_stage"
+  ],
+  "developmental stage of the larvae: yolksac, preflexion, flexion, postflexion, or transformation": [
+    "erdCalCOFIlrvstg::larvae_stage"
+  ],
+  "larvae_stage_count": [
+    "erdCalCOFIlrvstg::larvae_stage_count"
+  ],
+  "larvae stage count": [
+    "erdCalCOFIlrvstg::larvae_stage_count"
+  ],
+  "raw count of larvae by developmental stage": [
+    "erdCalCOFIlrvstg::larvae_stage_count"
+  ],
+  "cast time utc": [
+    "siocalcofiHydroBottle::time",
+    "siocalcofiHydroCast::time"
+  ],
+  "observed latitude in decimal degrees": [
+    "siocalcofiHydroBottle::latitude",
+    "siocalcofiHydroCast::latitude"
+  ],
+  "observed longitude in decimal degrees": [
+    "siocalcofiHydroBottle::longitude",
+    "siocalcofiHydroCast::longitude"
+  ],
+  "cst_cnt": [
+    "siocalcofiHydroBottle::cst_cnt",
+    "siocalcofiHydroCast::cst_cnt"
+  ],
+  "cast count": [
+    "siocalcofiHydroBottle::cst_cnt",
+    "siocalcofiHydroCast::cst_cnt"
+  ],
+  "cast count - all calcofi casts ever conducted, consecutively numbered": [
+    "siocalcofiHydroBottle::cst_cnt",
+    "siocalcofiHydroCast::cst_cnt"
+  ],
+  "btl_cnt": [
+    "siocalcofiHydroBottle::btl_cnt"
+  ],
+  "bottle count": [
+    "siocalcofiHydroBottle::btl_cnt"
+  ],
+  "bottle count - all calcofi bottles ever sampled, consecutively numbered": [
+    "siocalcofiHydroBottle::btl_cnt"
+  ],
+  "sta_id": [
+    "siocalcofiHydroBottle::sta_id",
+    "siocalcofiHydroCast::sta_id"
+  ],
+  "line and station": [
+    "siocalcofiHydroBottle::sta_id",
+    "siocalcofiHydroCast::dbsta_id",
+    "siocalcofiHydroCast::sta_id"
+  ],
+  "line and station [line] [station]": [
+    "siocalcofiHydroBottle::sta_id"
+  ],
+  "depth_id": [
+    "siocalcofiHydroBottle::depth_id"
+  ],
+  "bottle identifier": [
+    "siocalcofiHydroBottle::depth_id"
+  ],
+  "uses the cast_id prefix ([century]-[year][month][shipcode]-[casttype][julian day]-[casttime]-[line][sta]) but adds three additional variables: [depth][bottle]-[rec_ind]": [
+    "siocalcofiHydroBottle::depth_id"
+  ],
+  "depthm": [
+    "siocalcofiHydroBottle::depthm"
+  ],
+  "bottle depth": [
+    "siocalcofiHydroBottle::depthm"
+  ],
+  "bottle depth in meters": [
+    "siocalcofiHydroBottle::depthm"
+  ],
+  "bathymetry": [
+    "siocalcofiHydroBottle::depthm",
+    "siocalcofiHydroCast::bottom_d"
+  ],
+  "t_degc": [
+    "siocalcofiHydroBottle::t_degc"
+  ],
+  "water temperature in degrees celsius": [
+    "siocalcofiHydroBottle::t_degc"
+  ],
+  "salinity (practical salinity scale 1978)": [
+    "siocalcofiHydroBottle::salinity"
+  ],
+  "o2ml_l": [
+    "siocalcofiHydroBottle::o2ml_l"
+  ],
+  "o2": [
+    "siocalcofiHydroBottle::o2ml_l"
+  ],
+  "milliliters oxygen per liter of seawater": [
+    "siocalcofiHydroBottle::o2ml_l"
+  ],
+  "stheta": [
+    "siocalcofiHydroBottle::stheta"
+  ],
+  "potential density of water": [
+    "siocalcofiHydroBottle::stheta"
+  ],
+  "potential density (sigma theta)": [
+    "siocalcofiHydroBottle::stheta"
+  ],
+  "o2sat": [
+    "siocalcofiHydroBottle::o2sat"
+  ],
+  "oxygen percent saturation": [
+    "siocalcofiHydroBottle::o2sat"
+  ],
+  "oxy": [
+    "siocalcofiHydroBottle::oxy"
+  ],
+  "oxygen": [
+    "erdCalCOFINOAAhydros::oxygen",
+    "siocalcofiHydroBottle::oxy"
+  ],
+  "oxygen micromoles per kilogram seawater": [
+    "siocalcofiHydroBottle::oxy"
+  ],
+  "btlnum": [
+    "siocalcofiHydroBottle::btlnum"
+  ],
+  "bottle number": [
+    "siocalcofiHydroBottle::btlnum"
+  ],
+  "niskin bottle sample was collected from": [
+    "siocalcofiHydroBottle::btlnum"
+  ],
+  "recind": [
+    "siocalcofiHydroBottle::recind"
+  ],
+  "data descriptor code": [
+    "siocalcofiHydroBottle::recind"
+  ],
+  "record indicator (quality code that applies to the whole bottle, instead of just to a specific parameter)": [
+    "siocalcofiHydroBottle::recind"
+  ],
+  "t_prec": [
+    "siocalcofiHydroBottle::t_prec"
+  ],
+  "temperature precision": [
+    "siocalcofiHydroBottle::t_prec"
+  ],
+  "t_qual": [
+    "siocalcofiHydroBottle::t_qual"
+  ],
+  "temperature quality": [
+    "siocalcofiHydroBottle::t_qual"
+  ],
+  "quality": [
+    "siocalcofiHydroBottle::c14a1p",
+    "siocalcofiHydroBottle::c14a2p",
+    "siocalcofiHydroBottle::chlqua",
+    "siocalcofiHydroBottle::darkap",
+    "siocalcofiHydroBottle::meanap",
+    "siocalcofiHydroBottle::nh3q",
+    "siocalcofiHydroBottle::no2q",
+    "siocalcofiHydroBottle::no3q",
+    "siocalcofiHydroBottle::o2satq",
+    "siocalcofiHydroBottle::o_qual",
+    "siocalcofiHydroBottle::p_qual",
+    "siocalcofiHydroBottle::phaqua",
+    "siocalcofiHydroBottle::po4q",
+    "siocalcofiHydroBottle::s_qual",
+    "siocalcofiHydroBottle::sio3qu",
+    "siocalcofiHydroBottle::sthtaq",
+    "siocalcofiHydroBottle::t_qual"
+  ],
+  "quality code": [
+    "siocalcofiHydroBottle::c14a1q",
+    "siocalcofiHydroBottle::c14a2q",
+    "siocalcofiHydroBottle::chlqua",
+    "siocalcofiHydroBottle::darkaq",
+    "siocalcofiHydroBottle::meanaq",
+    "siocalcofiHydroBottle::nh3q",
+    "siocalcofiHydroBottle::no2q",
+    "siocalcofiHydroBottle::no3q",
+    "siocalcofiHydroBottle::o2satq",
+    "siocalcofiHydroBottle::o_qual",
+    "siocalcofiHydroBottle::p_qual",
+    "siocalcofiHydroBottle::phaqua",
+    "siocalcofiHydroBottle::po4q",
+    "siocalcofiHydroBottle::s_qual",
+    "siocalcofiHydroBottle::sio3qu",
+    "siocalcofiHydroBottle::sthtaq",
+    "siocalcofiHydroBottle::t_qual"
+  ],
+  "s_prec": [
+    "siocalcofiHydroBottle::s_prec"
+  ],
+  "salinity precision": [
+    "siocalcofiHydroBottle::s_prec"
+  ],
+  "s_qual": [
+    "siocalcofiHydroBottle::s_qual"
+  ],
+  "salinity quality": [
+    "siocalcofiHydroBottle::s_qual"
+  ],
+  "p_qual": [
+    "siocalcofiHydroBottle::p_qual"
+  ],
+  "pressure quality": [
+    "siocalcofiHydroBottle::p_qual"
+  ],
+  "o_qual": [
+    "siocalcofiHydroBottle::o_qual"
+  ],
+  "oxygen quality": [
+    "siocalcofiHydroBottle::o_qual"
+  ],
+  "sthtaq": [
+    "siocalcofiHydroBottle::sthtaq"
+  ],
+  "potential density quality": [
+    "siocalcofiHydroBottle::sthtaq"
+  ],
+  "o2satq": [
+    "siocalcofiHydroBottle::o2satq"
+  ],
+  "oxygen saturation quality": [
+    "siocalcofiHydroBottle::o2satq"
+  ],
+  "chlora": [
+    "siocalcofiHydroBottle::chlora"
+  ],
+  "chlorophyll-a": [
+    "siocalcofiHydroBottle::chlora"
+  ],
+  "productivity": [
+    "siocalcofiHydroBottle::chlora",
+    "siocalcofiHydroCast::intchl"
+  ],
+  "migrograms chlorophyll-a per liter seawater, measured fluorometrically": [
+    "siocalcofiHydroBottle::chlora"
+  ],
+  "chlqua": [
+    "siocalcofiHydroBottle::chlqua"
+  ],
+  "chlorophyll-a quality": [
+    "siocalcofiHydroBottle::chlqua"
+  ],
+  "phaeop": [
+    "siocalcofiHydroBottle::phaeop"
+  ],
+  "phaeopigment concentratio": [
+    "siocalcofiHydroBottle::phaeop"
+  ],
+  "micrograms phaeopigment per liter seawater, measured fluormetrically": [
+    "siocalcofiHydroBottle::phaeop"
+  ],
+  "phaqua": [
+    "siocalcofiHydroBottle::phaqua"
+  ],
+  "phaeopigments quality": [
+    "siocalcofiHydroBottle::phaqua"
+  ],
+  "po4um": [
+    "siocalcofiHydroBottle::po4um"
+  ],
+  "measured phosphate concentration": [
+    "siocalcofiHydroBottle::po4um"
+  ],
+  "micromoles phosphate per liter of seawater": [
+    "siocalcofiHydroBottle::po4um"
+  ],
+  "po4q": [
+    "siocalcofiHydroBottle::po4q"
+  ],
+  "phosphate quality": [
+    "siocalcofiHydroBottle::po4q"
+  ],
+  "sio3um": [
+    "siocalcofiHydroBottle::sio3um"
+  ],
+  "measured silicate concentration": [
+    "siocalcofiHydroBottle::sio3um"
+  ],
+  "micromoles silicate per liter of seawater": [
+    "siocalcofiHydroBottle::sio3um"
+  ],
+  "sio3qu": [
+    "siocalcofiHydroBottle::sio3qu"
+  ],
+  "silicate quality": [
+    "siocalcofiHydroBottle::sio3qu"
+  ],
+  "no2um": [
+    "siocalcofiHydroBottle::no2um"
+  ],
+  "nitrite": [
+    "siocalcofiHydroBottle::no2um"
+  ],
+  "micromoles nitrite per liter of seawater": [
+    "siocalcofiHydroBottle::no2um"
+  ],
+  "no2q": [
+    "siocalcofiHydroBottle::no2q"
+  ],
+  "nitrite quality": [
+    "siocalcofiHydroBottle::no2q"
+  ],
+  "no3um": [
+    "siocalcofiHydroBottle::no3um"
+  ],
+  "measured nitrate concentration": [
+    "siocalcofiHydroBottle::no3um"
+  ],
+  "micromoles nitrate per liter of seawater": [
+    "siocalcofiHydroBottle::no3um"
+  ],
+  "no3q": [
+    "siocalcofiHydroBottle::no3q"
+  ],
+  "nitrate quality": [
+    "siocalcofiHydroBottle::no3q"
+  ],
+  "nh3um": [
+    "siocalcofiHydroBottle::nh3um"
+  ],
+  "measured ammonium concentration": [
+    "siocalcofiHydroBottle::nh3um"
+  ],
+  "micromoles ammonia per liter of seawater": [
+    "siocalcofiHydroBottle::nh3um"
+  ],
+  "nh3q": [
+    "siocalcofiHydroBottle::nh3q"
+  ],
+  "ammonium quality": [
+    "siocalcofiHydroBottle::nh3q"
+  ],
+  "c14as1": [
+    "siocalcofiHydroBottle::c14as1"
+  ],
+  "c14 assimilation of replicate 1": [
+    "siocalcofiHydroBottle::c14as1"
+  ],
+  "14c assimilation of replicate 1 (milligrams carbon per cubic meter of seawater per half light day)": [
+    "siocalcofiHydroBottle::c14as1"
+  ],
+  "c14a1p": [
+    "siocalcofiHydroBottle::c14a1p"
+  ],
+  "precision of c14 assimilation of replicate 1": [
+    "siocalcofiHydroBottle::c14a1p"
+  ],
+  "precision of 14c assimilation of replicate 1": [
+    "siocalcofiHydroBottle::c14a1p"
+  ],
+  "c14a1q": [
+    "siocalcofiHydroBottle::c14a1q"
+  ],
+  "replicate 1 c14 assimilation quality": [
+    "siocalcofiHydroBottle::c14a1q"
+  ],
+  "c14as2": [
+    "siocalcofiHydroBottle::c14as2"
+  ],
+  "c14 assimilation of replicate 2": [
+    "siocalcofiHydroBottle::c14as2"
+  ],
+  "14c assimilation of replicate 2 (milligrams carbon per cubic meter of seawater per half light day)": [
+    "siocalcofiHydroBottle::c14as2"
+  ],
+  "c14a2p": [
+    "siocalcofiHydroBottle::c14a2p"
+  ],
+  "precision of c14 assimilation of replicate 2": [
+    "siocalcofiHydroBottle::c14a2p"
+  ],
+  "precision of 14c assimilation of replicate 2": [
+    "siocalcofiHydroBottle::c14a2p"
+  ],
+  "c14a2q": [
+    "siocalcofiHydroBottle::c14a2q"
+  ],
+  "replicate 2 c14 assimilation quality": [
+    "siocalcofiHydroBottle::c14a2q"
+  ],
+  "darkas": [
+    "siocalcofiHydroBottle::darkas"
+  ],
+  "c14 assimilation of the experimental control (dark bottle)": [
+    "siocalcofiHydroBottle::darkas"
+  ],
+  "14c assimilation of dark/control bottle (milligrams carbon per cubic meter of seawater per half light day)": [
+    "siocalcofiHydroBottle::darkas"
+  ],
+  "darkap": [
+    "siocalcofiHydroBottle::darkap"
+  ],
+  "precision of the experimental control": [
+    "siocalcofiHydroBottle::darkap"
+  ],
+  "precision of 14c assimilationof dark/control bottle": [
+    "siocalcofiHydroBottle::darkap"
+  ],
+  "darkaq": [
+    "siocalcofiHydroBottle::darkaq"
+  ],
+  "experimental control c14 assimilation quality": [
+    "siocalcofiHydroBottle::darkaq"
+  ],
+  "meanas": [
+    "siocalcofiHydroBottle::meanas"
+  ],
+  "c14 mean assimilation": [
+    "siocalcofiHydroBottle::meanas"
+  ],
+  "mean 14c assimilation of replicates 1 and 2 (milligrams carbon per cubic meter of seawater per half light day)": [
+    "siocalcofiHydroBottle::meanas"
+  ],
+  "meanap": [
+    "siocalcofiHydroBottle::meanap"
+  ],
+  "c14 mean assimilation precision": [
+    "siocalcofiHydroBottle::meanap"
+  ],
+  "precision of mean 14c assimilation of replicates 1 and 2": [
+    "siocalcofiHydroBottle::meanap"
+  ],
+  "meanaq": [
+    "siocalcofiHydroBottle::meanaq"
+  ],
+  "c14 mean assimilation quality": [
+    "siocalcofiHydroBottle::meanaq"
+  ],
+  "inctim": [
+    "siocalcofiHydroBottle::inctim"
+  ],
+  "time of primary productivity experimental incubation": [
+    "siocalcofiHydroBottle::inctim"
+  ],
+  "elapsed incubation time of the primary productivity experiment": [
+    "siocalcofiHydroBottle::inctim"
+  ],
+  "lightp": [
+    "siocalcofiHydroBottle::lightp"
+  ],
+  "light intensities": [
+    "siocalcofiHydroBottle::lightp"
+  ],
+  "light intensities of the incubation tubes in the primary productivity experiment, expressed as percentages": [
+    "siocalcofiHydroBottle::lightp"
+  ],
+  "r_depth": [
+    "siocalcofiHydroBottle::r_depth"
+  ],
+  "reported depth": [
+    "siocalcofiHydroBottle::r_depth"
+  ],
+  "reported depth (from pressure) in meters": [
+    "siocalcofiHydroBottle::r_depth"
+  ],
+  "r_temp": [
+    "siocalcofiHydroBottle::r_temp"
+  ],
+  "reported potential temperature": [
+    "siocalcofiHydroBottle::r_temp"
+  ],
+  "reported (potential) temperature in degrees celsius": [
+    "siocalcofiHydroBottle::r_temp"
+  ],
+  "r_sal": [
+    "siocalcofiHydroBottle::r_sal"
+  ],
+  "reported salinity": [
+    "siocalcofiHydroBottle::r_sal"
+  ],
+  "reported salinity (from specific volume anomoly, m^3/kg)": [
+    "siocalcofiHydroBottle::r_sal"
+  ],
+  "r_dynht": [
+    "siocalcofiHydroBottle::r_dynht"
+  ],
+  "reported dynamic height": [
+    "siocalcofiHydroBottle::r_dynht"
+  ],
+  "reported dynamic height in units of dynamic meters (work per unit mass)": [
+    "siocalcofiHydroBottle::r_dynht"
+  ],
+  "r_nuts": [
+    "siocalcofiHydroBottle::r_nuts"
+  ],
+  "reported ammonium concentration": [
+    "siocalcofiHydroBottle::r_nuts"
+  ],
+  "r_oxy": [
+    "siocalcofiHydroBottle::r_oxy"
+  ],
+  "reported oxygen": [
+    "siocalcofiHydroBottle::r_oxy"
+  ],
+  "reported oxygen micromoles/kilogram": [
+    "siocalcofiHydroBottle::r_oxy"
+  ],
+  "dic1": [
+    "siocalcofiHydroBottle::dic1"
+  ],
+  "dissolved inorganic carbon, replicate 1": [
+    "siocalcofiHydroBottle::dic1"
+  ],
+  "dissolved inorganic carbon micromoles per kilogram solution": [
+    "siocalcofiHydroBottle::dic1"
+  ],
+  "dic2": [
+    "siocalcofiHydroBottle::dic2"
+  ],
+  "dissolved inorganic carbon, replicate 2": [
+    "siocalcofiHydroBottle::dic2"
+  ],
+  "dissolved inorganic carbon micromoles per kilogram solution (on a replicate sample)": [
+    "siocalcofiHydroBottle::dic2"
+  ],
+  "ta1": [
+    "siocalcofiHydroBottle::ta1"
+  ],
+  "measured total alkalinity, replicate 1": [
+    "siocalcofiHydroBottle::ta1"
+  ],
+  "total alkalinity micromoles per kilogram solution": [
+    "siocalcofiHydroBottle::ta1"
+  ],
+  "ta2": [
+    "siocalcofiHydroBottle::ta2"
+  ],
+  "measured total alkalinity, replicate 2": [
+    "siocalcofiHydroBottle::ta2"
+  ],
+  "total alkalinity micromoles per kilogram solution (on a replicate sample)": [
+    "siocalcofiHydroBottle::ta2"
+  ],
+  "ph1": [
+    "siocalcofiHydroBottle::ph1"
+  ],
+  "ph": [
+    "siocalcofiHydroBottle::ph1"
+  ],
+  "ph (the degree of acidity/alkalinity of a solution)": [
+    "siocalcofiHydroBottle::ph1"
+  ],
+  "ph2": [
+    "siocalcofiHydroBottle::ph2"
+  ],
+  "ph replicate": [
+    "siocalcofiHydroBottle::ph2"
+  ],
+  "ph (the degree of acidity/alkalinity of a solution) on a replicate sample": [
+    "siocalcofiHydroBottle::ph2"
+  ],
+  "dic_quality_comment": [
+    "siocalcofiHydroBottle::dic_quality_comment"
+  ],
+  "dic quality comment": [
+    "siocalcofiHydroBottle::dic_quality_comment"
+  ],
+  "quality comment": [
+    "siocalcofiHydroBottle::dic_quality_comment"
+  ],
+  "cruise_id": [
+    "siocalcofiHydroCast::cruise_id"
+  ],
+  "cruise id": [
+    "siocalcofiHydroCast::cruise_id",
+    "siocalcofiHydroCast::cruz_sta"
+  ],
+  "cruise identifier [year]-[month]-[day]-c-[ship code]": [
+    "siocalcofiHydroCast::cruise_id"
+  ],
+  "cruise name [year][month]": [
+    "siocalcofiHydroCast::cruise"
+  ],
+  "cruz_sta": [
+    "siocalcofiHydroCast::cruz_sta"
+  ],
+  "cruise name and station [year][month][line][station]": [
+    "siocalcofiHydroCast::cruz_sta"
+  ],
+  "dbsta_id": [
+    "siocalcofiHydroCast::dbsta_id"
+  ],
+  "calcofi line and station": [
+    "siocalcofiHydroCast::dbsta_id"
+  ],
+  "cast_id": [
+    "siocalcofiHydroCast::cast_id"
+  ],
+  "cast id": [
+    "siocalcofiHydroCast::cast_id"
+  ],
+  "cast identifier [century] - [yy][mm][shipcode] - [casttype][julian day] - [casttime]-[line][sta]": [
+    "siocalcofiHydroCast::cast_id"
+  ],
+  "quarter": [
+    "siocalcofiHydroCast::quarter"
+  ],
+  "quarter of year": [
+    "siocalcofiHydroCast::quarter"
+  ],
+  "quarter of the year": [
+    "siocalcofiHydroCast::quarter"
+  ],
+  "sta_code": [
+    "siocalcofiHydroCast::sta_code"
+  ],
+  "station designation (see station_id and 0-st_code for codes)": [
+    "siocalcofiHydroCast::sta_code"
+  ],
+  "distance": [
+    "siocalcofiHydroCast::distance"
+  ],
+  "distance from shore": [
+    "siocalcofiHydroCast::distance"
+  ],
+  "nautical miles from coast intercept, calculated from estimated latitude and longitude": [
+    "siocalcofiHydroCast::distance"
+  ],
+  "date": [
+    "siocalcofiHydroCast::date"
+  ],
+  "date (month day year)": [
+    "siocalcofiHydroCast::date"
+  ],
+  "year": [
+    "siocalcofiHydroCast::year"
+  ],
+  "month": [
+    "siocalcofiHydroCast::month"
+  ],
+  "julian_date": [
+    "siocalcofiHydroCast::julian_date"
+  ],
+  "julian date": [
+    "siocalcofiHydroCast::julian_date"
+  ],
+  "oa date: days since december 30, 1899": [
+    "siocalcofiHydroCast::julian_date"
+  ],
+  "julian_day": [
+    "siocalcofiHydroCast::julian_day"
+  ],
+  "julian day": [
+    "siocalcofiHydroCast::julian_day"
+  ],
+  "julian day of the year": [
+    "siocalcofiHydroCast::julian_day"
+  ],
+  "time_string": [
+    "siocalcofiHydroCast::time_string"
+  ],
+  "time of cast": [
+    "siocalcofiHydroCast::time_string"
+  ],
+  "time (utc) ctd reached terminal depth": [
+    "siocalcofiHydroCast::time_string"
+  ],
+  "lat_deg": [
+    "siocalcofiHydroCast::lat_deg"
+  ],
+  "latitude_degrees": [
+    "siocalcofiHydroCast::lat_deg"
+  ],
+  "observed latitude in degrees": [
+    "siocalcofiHydroCast::lat_deg"
+  ],
+  "lat_min": [
+    "siocalcofiHydroCast::lat_min"
+  ],
+  "latitude_minutes": [
+    "siocalcofiHydroCast::lat_min"
+  ],
+  "observed latitude in minutes": [
+    "siocalcofiHydroCast::lat_min"
+  ],
+  "lat_hem": [
+    "siocalcofiHydroCast::lat_hem"
+  ],
+  "latitude_hemisphere": [
+    "siocalcofiHydroCast::lat_hem"
+  ],
+  "observed latitude hemisphere": [
+    "siocalcofiHydroCast::lat_hem"
+  ],
+  "lon_deg": [
+    "siocalcofiHydroCast::lon_deg"
+  ],
+  "longitude_degrees": [
+    "siocalcofiHydroCast::lon_deg"
+  ],
+  "observed longitude in degrees": [
+    "siocalcofiHydroCast::lon_deg"
+  ],
+  "lon_min": [
+    "siocalcofiHydroCast::lon_min"
+  ],
+  "longitude_minutes": [
+    "siocalcofiHydroCast::lon_min"
+  ],
+  "observed longitude in minutes": [
+    "siocalcofiHydroCast::lon_min"
+  ],
+  "lon_hem": [
+    "siocalcofiHydroCast::lon_hem"
+  ],
+  "longitude_hemisphere": [
+    "siocalcofiHydroCast::lon_hem"
+  ],
+  "observed longitude hemisphere": [
+    "siocalcofiHydroCast::lon_hem"
+  ],
+  "rpt_line": [
+    "siocalcofiHydroCast::rpt_line"
+  ],
+  "reported line number": [
+    "siocalcofiHydroCast::rpt_line"
+  ],
+  "st_line": [
+    "siocalcofiHydroCast::st_line"
+  ],
+  "nearest standard line": [
+    "siocalcofiHydroCast::st_line"
+  ],
+  "ac_line": [
+    "siocalcofiHydroCast::ac_line"
+  ],
+  "actual line number": [
+    "siocalcofiHydroCast::ac_line"
+  ],
+  "calculated actual line from observed latitude and longitude": [
+    "siocalcofiHydroCast::ac_line"
+  ],
+  "rpt_sta": [
+    "siocalcofiHydroCast::rpt_sta"
+  ],
+  "reported station": [
+    "siocalcofiHydroCast::rpt_sta"
+  ],
+  "reported station number": [
+    "siocalcofiHydroCast::rpt_sta"
+  ],
+  "st_station": [
+    "siocalcofiHydroCast::st_station"
+  ],
+  "nearest standard station number": [
+    "siocalcofiHydroCast::st_station"
+  ],
+  "ac_sta": [
+    "siocalcofiHydroCast::ac_sta"
+  ],
+  "actual station": [
+    "siocalcofiHydroCast::ac_sta"
+  ],
+  "calculated actual station from observed lat and long": [
+    "siocalcofiHydroCast::ac_sta"
+  ],
+  "bottom_d": [
+    "siocalcofiHydroCast::bottom_d"
+  ],
+  "station bottom depth": [
+    "siocalcofiHydroCast::bottom_d"
+  ],
+  "bottom depth in meters": [
+    "siocalcofiHydroCast::bottom_d"
+  ],
+  "secchi": [
+    "siocalcofiHydroCast::secchi"
+  ],
+  "optical properties": [
+    "siocalcofiHydroCast::secchi"
+  ],
+  "secchi disk depth in meters": [
+    "siocalcofiHydroCast::secchi"
+  ],
+  "fore_iu": [
+    "siocalcofiHydroCast::fore_iu"
+  ],
+  "forelu": [
+    "siocalcofiHydroCast::fore_iu"
+  ],
+  "water color; only used in calcofi dataset from 1988-10 through 1998-04": [
+    "siocalcofiHydroCast::fore_iu"
+  ],
+  "ocean color": [
+    "siocalcofiHydroCast::fore_iu"
+  ],
+  "ship_name": [
+    "siocalcofiHydroCast::ship_name"
+  ],
+  "ship's name": [
+    "siocalcofiHydroCast::ship_name"
+  ],
+  "ship's nodc code": [
+    "siocalcofiHydroCast::ship_code"
+  ],
+  "data_type": [
+    "siocalcofiHydroCast::data_type"
+  ],
+  "data type": [
+    "siocalcofiHydroCast::data_type"
+  ],
+  "order_occ": [
+    "siocalcofiHydroCast::order_occ"
+  ],
+  "order station was occupied (within each cruise)": [
+    "siocalcofiHydroCast::order_occ"
+  ],
+  "event_num": [
+    "siocalcofiHydroCast::event_num"
+  ],
+  "event number": [
+    "siocalcofiHydroCast::event_num"
+  ],
+  "event number; includes all research opperations within each cruise (e.g. nets, ctd)": [
+    "siocalcofiHydroCast::event_num"
+  ],
+  "cruz_leg": [
+    "siocalcofiHydroCast::cruz_leg"
+  ],
+  "cruise leg": [
+    "siocalcofiHydroCast::cruz_leg"
+  ],
+  "leg of cruise, if multiple legs": [
+    "siocalcofiHydroCast::cruz_leg"
+  ],
+  "orig_sta_id": [
+    "siocalcofiHydroCast::orig_sta_id"
+  ],
+  "original station identifier": [
+    "siocalcofiHydroCast::orig_sta_id"
+  ],
+  "ieh reported station id": [
+    "siocalcofiHydroCast::orig_sta_id"
+  ],
+  "data_or": [
+    "siocalcofiHydroCast::data_or"
+  ],
+  "organizational id": [
+    "siocalcofiHydroCast::data_or"
+  ],
+  "cruz_num": [
+    "siocalcofiHydroCast::cruz_num"
+  ],
+  "cruise number": [
+    "siocalcofiHydroCast::cruz_num"
+  ],
+  "cruise designation (year month)": [
+    "siocalcofiHydroCast::cruz_num"
+  ],
+  "intchl": [
+    "siocalcofiHydroCast::intchl"
+  ],
+  "integrated chlorophyll": [
+    "siocalcofiHydroCast::intchl"
+  ],
+  "integrated chlorophyll per half light day": [
+    "siocalcofiHydroCast::intchl"
+  ],
+  "intc14": [
+    "siocalcofiHydroCast::intc14"
+  ],
+  "integrated c14 assimilation": [
+    "siocalcofiHydroCast::intc14"
+  ],
+  "integrated primary productivity per half light day": [
+    "siocalcofiHydroCast::intc14"
+  ],
+  "inc_str": [
+    "siocalcofiHydroCast::inc_str"
+  ],
+  "incubation start time pst": [
+    "siocalcofiHydroCast::inc_str"
+  ],
+  "incubation start time (pst)": [
+    "siocalcofiHydroCast::inc_str"
+  ],
+  "inc_end": [
+    "siocalcofiHydroCast::inc_end"
+  ],
+  "incubation end time pst": [
+    "siocalcofiHydroCast::inc_end"
+  ],
+  "incubation end time (pst)": [
+    "siocalcofiHydroCast::inc_end"
+  ],
+  "pst_lan": [
+    "siocalcofiHydroCast::pst_lan"
+  ],
+  "local apparent noon pst": [
+    "siocalcofiHydroCast::pst_lan"
+  ],
+  "time of local apparent noon (pst)": [
+    "siocalcofiHydroCast::pst_lan"
+  ],
+  "civil_t": [
+    "siocalcofiHydroCast::civil_t"
+  ],
+  "civil twilight pst": [
+    "siocalcofiHydroCast::civil_t"
+  ],
+  "time of civil twilight (pst)": [
+    "siocalcofiHydroCast::civil_t"
+  ],
+  "timezone": [
+    "siocalcofiHydroCast::timezone"
+  ],
+  "time zone": [
+    "siocalcofiHydroCast::timezone"
+  ],
+  "wave_dir": [
+    "siocalcofiHydroCast::wave_dir"
+  ],
+  "wave direction code": [
+    "siocalcofiHydroCast::wave_dir"
+  ],
+  "wave direction reported using an abbreviated 360 degree azimuth circle with 00 representing true north, 18 represents 180 degrees": [
+    "siocalcofiHydroCast::wave_dir"
+  ],
+  "surface waves": [
+    "siocalcofiHydroCast::wave_dir",
+    "siocalcofiHydroCast::wave_ht",
+    "siocalcofiHydroCast::wave_prd"
+  ],
+  "wave_ht": [
+    "siocalcofiHydroCast::wave_ht"
+  ],
+  "wave height": [
+    "siocalcofiHydroCast::wave_ht"
+  ],
+  "wave height in feet": [
+    "siocalcofiHydroCast::wave_ht"
+  ],
+  "wave_prd": [
+    "siocalcofiHydroCast::wave_prd"
+  ],
+  "wave period": [
+    "siocalcofiHydroCast::wave_prd"
+  ],
+  "wave period in seconds": [
+    "siocalcofiHydroCast::wave_prd"
+  ],
+  "wind_dir": [
+    "siocalcofiHydroCast::wind_dir"
+  ],
+  "wind direction": [
+    "siocalcofiHydroCast::wind_dir"
+  ],
+  "reported using an abbreviated 360 degree azimuth circle with 0 representing true north, 18 representing 180 degrees": [
+    "siocalcofiHydroCast::wind_dir"
+  ],
+  "wind_spd": [
+    "siocalcofiHydroCast::wind_spd"
+  ],
+  "wind speed": [
+    "siocalcofiHydroCast::wind_spd"
+  ],
+  "wind speed in knots": [
+    "siocalcofiHydroCast::wind_spd"
+  ],
+  "barometer": [
+    "siocalcofiHydroCast::barometer"
+  ],
+  "atmospheric pressure": [
+    "siocalcofiHydroCast::barometer"
+  ],
+  "millibars to the tenths": [
+    "siocalcofiHydroCast::barometer"
+  ],
+  "pressure": [
+    "siocalcofiHydroCast::barometer"
+  ],
+  "dry_t": [
+    "siocalcofiHydroCast::dry_t"
+  ],
+  "dry bulb temperature": [
+    "siocalcofiHydroCast::dry_t"
+  ],
+  "dry air temperature from a sling psychrometer in degrees celcius": [
+    "siocalcofiHydroCast::dry_t"
+  ],
+  "wet_t": [
+    "siocalcofiHydroCast::wet_t"
+  ],
+  "wet bulb temperature": [
+    "siocalcofiHydroCast::wet_t"
+  ],
+  "wet air temperature from a sling psychrometer in degrees celcius": [
+    "siocalcofiHydroCast::wet_t"
+  ],
+  "wea": [
+    "siocalcofiHydroCast::wea"
+  ],
+  "weather code": [
+    "siocalcofiHydroCast::wea"
+  ],
+  "1 digit code from the world meteorlogical organization, code source wmo 4501": [
+    "siocalcofiHydroCast::wea"
+  ],
+  "meteorology": [
+    "siocalcofiHydroCast::cloud_amt",
+    "siocalcofiHydroCast::cloud_typ",
+    "siocalcofiHydroCast::visibility",
+    "siocalcofiHydroCast::wea"
+  ],
+  "cloud_typ": [
+    "siocalcofiHydroCast::cloud_typ"
+  ],
+  "cloud type code": [
+    "siocalcofiHydroCast::cloud_typ"
+  ],
+  "1 digit code from the world meteorlogical organization, code source wmo 0500": [
+    "siocalcofiHydroCast::cloud_typ"
+  ],
+  "cloud_amt": [
+    "siocalcofiHydroCast::cloud_amt"
+  ],
+  "cloud amount code": [
+    "siocalcofiHydroCast::cloud_amt"
+  ],
+  "1 digit code from the world meteorlogical organization, code source wmo 2700, in oktas": [
+    "siocalcofiHydroCast::cloud_amt"
+  ],
+  "visibility": [
+    "siocalcofiHydroCast::visibility"
+  ],
+  "visibility code": [
+    "siocalcofiHydroCast::visibility"
+  ],
+  "1 digit code from the world meteorlogical organization, code source wmo 4300": [
+    "siocalcofiHydroCast::visibility"
+  ],
+  "small_plankton": [
+    "erdCalCOFIzoovol::small_plankton"
+  ],
+  "small plankton volume": [
+    "erdCalCOFIzoovol::small_plankton"
+  ],
+  "zooplankton abundance": [
+    "erdCalCOFIzoovol::small_plankton",
+    "erdCalCOFIzoovol::total_plankton"
+  ],
+  "standardized volume of plankton with individual displacement volumes <5 ml": [
+    "erdCalCOFIzoovol::small_plankton"
+  ],
+  "total_plankton": [
+    "erdCalCOFIzoovol::total_plankton"
+  ],
+  "total plankton volume": [
+    "erdCalCOFIzoovol::total_plankton"
+  ],
+  "standardized volume of plankton in the sample": [
+    "erdCalCOFIzoovol::total_plankton"
+  ],
+  "idnum": [
+    "CAC_FI_SBAS_obs::idnum"
+  ],
+  "unique id number": [
+    "CAC_FI_SBAS_obs::idnum"
+  ],
+  "gis_key": [
+    "CAC_FI_SBAS_obs::gis_key"
+  ],
+  "behavior": [
+    "CAC_FI_SBAS_obs::behavior"
+  ],
+  "species": [
+    "CAC_FI_SBAS_obs::species",
+    "CAC_FI_SBAS_sp::species"
+  ],
+  "count": [
+    "CAC_FI_SBAS_obs::count"
+  ],
+  "four-letter species code; refers to species_codes table": [
+    "CAC_FI_SBAS_sp::species"
+  ],
+  "type": [
+    "CAC_FI_SBAS_sp::type"
+  ],
+  "phytoplankton community (visual estimates)": [
+    "datazoo/catalogs/ccelter/datasets/254::dataset"
+  ],
+  "permanent zooplankton (holoplankton) community: zoodb": [
+    "zoodb/save.php?mode=save::dataset"
+  ],
+  "dungeness crab postlarvae (metacarcinus/cancer magister)": [
+    "knb-lter-cce.188.4::dataset"
+  ],
+  "marine mammal sightings- underway": [
+    "knb-lter-cce.262.2::dataset"
+  ],
+  "krill (euphausiids)": [
+    "/euphausiid/save.php?mode=save::dataset"
+  ],
+  "carbonate chemistry - bottles": [
+    "gov.noaa.nodc:0301029::dataset"
+  ],
+  "genomics of microbial/plankton assemblage (asvs) - 16s": [
+    "555783::dataset"
+  ],
+  "mesopelagic fish": [
+    "bb9217084g::dataset"
+  ],
+  "end_time": [
+    "erdCalCOFItows::end_time"
+  ],
+  "end time": [
+    "erdCalCOFItows::end_time"
+  ],
+  "tow end time (yyyy-mm-dd't'hh:mm:ss'z')": [
+    "erdCalCOFItows::end_time"
+  ],
+  "mesh_size": [
+    "erdCalCOFItows::mesh_size"
+  ],
+  "mesh size ()": [
+    "erdCalCOFItows::mesh_size"
+  ],
+  "net mesh size": [
+    "erdCalCOFItows::mesh_size"
+  ],
+  "ctd start time": [
+    "erdCalCOFINOAAhydros::time"
+  ],
+  "ctd start time (yyyy-mm-dd't'hh:mm:ss'z')": [
+    "erdCalCOFINOAAhydros::time"
+  ],
+  "ctd_depth": [
+    "erdCalCOFINOAAhydros::ctd_depth"
+  ],
+  "ctd depth": [
+    "erdCalCOFINOAAhydros::ctd_depth"
+  ],
+  "standard depth of ctd": [
+    "erdCalCOFINOAAhydros::ctd_depth"
+  ],
+  "dissolved oxygen concentration": [
+    "erdCalCOFINOAAhydros::oxygen"
+  ],
+  "dissolved o2": [
+    "erdCalCOFINOAAhydros::oxygen",
+    "erdCalCOFINOAAhydros::percent_saturation"
+  ],
+  "percent_saturation": [
+    "erdCalCOFINOAAhydros::percent_saturation"
+  ],
+  "oxygen saturation (%)": [
+    "erdCalCOFINOAAhydros::percent_saturation"
+  ],
+  "oxygen saturation of the water": [
+    "erdCalCOFINOAAhydros::percent_saturation"
+  ],
+  "ctd cast data (sio)": [
+    "ctd-cast-files/::dataset"
+  ],
+  "weather - underway/mets data": [
+    "underway/::dataset"
+  ],
+  "heterotrophic bacteria & picoautotrophs": [
+    "datazoo/catalogs/ccelter/datasets/159::dataset"
+  ],
+  "stanford calcofi zooplankton data": [
+    "nt620vn7810::dataset"
+  ],
+  "genomics of plankton assemblage (asvs) - 18s": [
+    "ruizt/marine-mammal-edna::dataset"
+  ],
+  "bentheuphausia amblyops": [
+    "euphausiid::Bentheuphausia_amblyops"
+  ],
+  "euphausiid": [
+    "euphausiid::Bentheuphausia_amblyops",
+    "euphausiid::Euphausia_brevis",
+    "euphausiid::Euphausia_diomedeae",
+    "euphausiid::Euphausia_distinguenda",
+    "euphausiid::Euphausia_eximia",
+    "euphausiid::Euphausia_gibboides",
+    "euphausiid::Euphausia_hemigibba",
+    "euphausiid::Euphausia_lamelligera",
+    "euphausiid::Euphausia_mutica",
+    "euphausiid::Euphausia_pacifica",
+    "euphausiid::Euphausia_recurva",
+    "euphausiid::Euphausia_tenera",
+    "euphausiid::Hansarsia_atlantica",
+    "euphausiid::Hansarsia_difficilis",
+    "euphausiid::Hansarsia_gracilis",
+    "euphausiid::Hansarsia_microps",
+    "euphausiid::Hansarsia_tenella",
+    "euphausiid::Nematobrachion_boopis",
+    "euphausiid::Nematobrachion_flexipes",
+    "euphausiid::Nyctiphanes_simplex",
+    "euphausiid::Stylocheiron_abbreviatum",
+    "euphausiid::Stylocheiron_affine",
+    "euphausiid::Stylocheiron_carinatum",
+    "euphausiid::Stylocheiron_elongatum",
+    "euphausiid::Stylocheiron_longicorne",
+    "euphausiid::Stylocheiron_maximum",
+    "euphausiid::Stylocheiron_suhmi",
+    "euphausiid::Tessarabrachion_oculatum",
+    "euphausiid::Thysanoessa_gregaria",
+    "euphausiid::Thysanoessa_longipes",
+    "euphausiid::Thysanoessa_spinifera",
+    "euphausiid::Thysanopoda_astylata",
+    "euphausiid::Thysanopoda_cornuta",
+    "euphausiid::Thysanopoda_cristata",
+    "euphausiid::Thysanopoda_egregia",
+    "euphausiid::Thysanopoda_monacantha",
+    "euphausiid::Thysanopoda_obtusifrons",
+    "euphausiid::Thysanopoda_orientalis",
+    "euphausiid::Thysanopoda_pectinata"
+  ],
+  "bentheuphausia": [
+    "euphausiid::Bentheuphausia_amblyops"
+  ],
+  "zooplankton": [
+    "euphausiid::Bentheuphausia_amblyops",
+    "euphausiid::Euphausia_brevis",
+    "euphausiid::Euphausia_diomedeae",
+    "euphausiid::Euphausia_distinguenda",
+    "euphausiid::Euphausia_eximia",
+    "euphausiid::Euphausia_gibboides",
+    "euphausiid::Euphausia_hemigibba",
+    "euphausiid::Euphausia_lamelligera",
+    "euphausiid::Euphausia_mutica",
+    "euphausiid::Euphausia_pacifica",
+    "euphausiid::Euphausia_recurva",
+    "euphausiid::Euphausia_tenera",
+    "euphausiid::Hansarsia_atlantica",
+    "euphausiid::Hansarsia_difficilis",
+    "euphausiid::Hansarsia_gracilis",
+    "euphausiid::Hansarsia_microps",
+    "euphausiid::Hansarsia_tenella",
+    "euphausiid::Nematobrachion_boopis",
+    "euphausiid::Nematobrachion_flexipes",
+    "euphausiid::Nyctiphanes_simplex",
+    "euphausiid::Stylocheiron_abbreviatum",
+    "euphausiid::Stylocheiron_affine",
+    "euphausiid::Stylocheiron_carinatum",
+    "euphausiid::Stylocheiron_elongatum",
+    "euphausiid::Stylocheiron_longicorne",
+    "euphausiid::Stylocheiron_maximum",
+    "euphausiid::Stylocheiron_suhmi",
+    "euphausiid::Tessarabrachion_oculatum",
+    "euphausiid::Thysanoessa_gregaria",
+    "euphausiid::Thysanoessa_longipes",
+    "euphausiid::Thysanoessa_spinifera",
+    "euphausiid::Thysanopoda_astylata",
+    "euphausiid::Thysanopoda_cornuta",
+    "euphausiid::Thysanopoda_cristata",
+    "euphausiid::Thysanopoda_egregia",
+    "euphausiid::Thysanopoda_monacantha",
+    "euphausiid::Thysanopoda_obtusifrons",
+    "euphausiid::Thysanopoda_orientalis",
+    "euphausiid::Thysanopoda_pectinata",
+    "zoodb::All_genera_and_species",
+    "zoodb::aetideus_bradyi",
+    "zoodb::aetideus_divergens",
+    "zoodb::atlanta_spp.",
+    "zoodb::calanus_pacificus",
+    "zoodb::candacia_aethiopica",
+    "zoodb::candacia_bipinnata",
+    "zoodb::candacia_curta",
+    "zoodb::cyclosalpa_affinis",
+    "zoodb::cyclosalpa_bakeri",
+    "zoodb::cyclosalpa_pinnata",
+    "zoodb::cyclosalpa_quadriluminis",
+    "zoodb::cyclosalpa_spp.",
+    "zoodb::dolioletta_gegenbauri",
+    "zoodb::dolioletta_sp.",
+    "zoodb::eucalanus_californicus",
+    "zoodb::eucalanus_hyalinus",
+    "zoodb::euchaeta_acuta",
+    "zoodb::euchaeta_media",
+    "zoodb::euchaeta_rimana",
+    "zoodb::euchirella_pseudopulchra",
+    "zoodb::euchirella_pulchra",
+    "zoodb::gaidius_pungens",
+    "zoodb::gaussia_princeps",
+    "zoodb::helicosalpa_virgula",
+    "zoodb::heterorhabdus_abyssalis",
+    "zoodb::heterorhabdus_papilliger",
+    "zoodb::ihlea_punctata",
+    "zoodb::labidocera_trispinosa",
+    "zoodb::lucicutia_flavicornis",
+    "zoodb::lucicutia_spp.",
+    "zoodb::mesocalanus_lighti",
+    "zoodb::mesocalanus_tenuicornis",
+    "zoodb::metridia_cf._pacifica",
+    "zoodb::nannocalanus_minor",
+    "zoodb::neocalanus_cristatus",
+    "zoodb::neocalanus_flemingeri",
+    "zoodb::neocalanus_gracilis",
+    "zoodb::neocalanus_plumchrus",
+    "zoodb::neocalanus_robustior",
+    "zoodb::pareucalanus_attenuatus",
+    "zoodb::pasiphaea_pacifica",
+    "zoodb::pasiphaea_spp.",
+    "zoodb::pegea_confoederata",
+    "zoodb::pegea_socia",
+    "zoodb::pegea_spp.",
+    "zoodb::pleuromamma_abdominalis_edentata",
+    "zoodb::pleuromamma_abdominalis_typica",
+    "zoodb::pleuromamma_borealis",
+    "zoodb::pleuromamma_gracilis",
+    "zoodb::pleuromamma_piseki",
+    "zoodb::pleuromamma_quadrungulata",
+    "zoodb::pleuromamma_xiphias",
+    "zoodb::pleuroncodes_planipes",
+    "zoodb::pyrosoma_atlanticum",
+    "zoodb::pyrosoma_spp.",
+    "zoodb::pyrosomella_verticillata",
+    "zoodb::rhincalanus_nasutus",
+    "zoodb::ritteriella_amboinensis",
+    "zoodb::ritteriella_picteti",
+    "zoodb::ritteriella_retracta",
+    "zoodb::ritteriella_spp.",
+    "zoodb::salpa_aspera",
+    "zoodb::salpa_fusiformis",
+    "zoodb::salpa_maxima",
+    "zoodb::salpa_spp.",
+    "zoodb::scolecithrix_danae",
+    "zoodb::sergestes_similis",
+    "zoodb::sergestes_spp.",
+    "zoodb::sergia_spp.",
+    "zoodb::soestia_zonaria",
+    "zoodb::subeucalanus_crassus",
+    "zoodb::thalia_democratica",
+    "zoodb::thetys_vagina",
+    "zoodb::tomopteris_spp.",
+    "zoodb::weelia_cylindrica"
+  ],
+  "krill": [
+    "euphausiid::Bentheuphausia_amblyops",
+    "euphausiid::Euphausia_brevis",
+    "euphausiid::Euphausia_diomedeae",
+    "euphausiid::Euphausia_distinguenda",
+    "euphausiid::Euphausia_eximia",
+    "euphausiid::Euphausia_gibboides",
+    "euphausiid::Euphausia_hemigibba",
+    "euphausiid::Euphausia_lamelligera",
+    "euphausiid::Euphausia_mutica",
+    "euphausiid::Euphausia_pacifica",
+    "euphausiid::Euphausia_recurva",
+    "euphausiid::Euphausia_tenera",
+    "euphausiid::Hansarsia_atlantica",
+    "euphausiid::Hansarsia_difficilis",
+    "euphausiid::Hansarsia_gracilis",
+    "euphausiid::Hansarsia_microps",
+    "euphausiid::Hansarsia_tenella",
+    "euphausiid::Nematobrachion_boopis",
+    "euphausiid::Nematobrachion_flexipes",
+    "euphausiid::Nyctiphanes_simplex",
+    "euphausiid::Stylocheiron_abbreviatum",
+    "euphausiid::Stylocheiron_affine",
+    "euphausiid::Stylocheiron_carinatum",
+    "euphausiid::Stylocheiron_elongatum",
+    "euphausiid::Stylocheiron_longicorne",
+    "euphausiid::Stylocheiron_maximum",
+    "euphausiid::Stylocheiron_suhmi",
+    "euphausiid::Tessarabrachion_oculatum",
+    "euphausiid::Thysanoessa_gregaria",
+    "euphausiid::Thysanoessa_longipes",
+    "euphausiid::Thysanoessa_spinifera",
+    "euphausiid::Thysanopoda_astylata",
+    "euphausiid::Thysanopoda_cornuta",
+    "euphausiid::Thysanopoda_cristata",
+    "euphausiid::Thysanopoda_egregia",
+    "euphausiid::Thysanopoda_monacantha",
+    "euphausiid::Thysanopoda_obtusifrons",
+    "euphausiid::Thysanopoda_orientalis",
+    "euphausiid::Thysanopoda_pectinata"
+  ],
+  "euphausiids": [
+    "euphausiid::Bentheuphausia_amblyops",
+    "euphausiid::Euphausia_brevis",
+    "euphausiid::Euphausia_diomedeae",
+    "euphausiid::Euphausia_distinguenda",
+    "euphausiid::Euphausia_eximia",
+    "euphausiid::Euphausia_gibboides",
+    "euphausiid::Euphausia_hemigibba",
+    "euphausiid::Euphausia_lamelligera",
+    "euphausiid::Euphausia_mutica",
+    "euphausiid::Euphausia_pacifica",
+    "euphausiid::Euphausia_recurva",
+    "euphausiid::Euphausia_tenera",
+    "euphausiid::Hansarsia_atlantica",
+    "euphausiid::Hansarsia_difficilis",
+    "euphausiid::Hansarsia_gracilis",
+    "euphausiid::Hansarsia_microps",
+    "euphausiid::Hansarsia_tenella",
+    "euphausiid::Nematobrachion_boopis",
+    "euphausiid::Nematobrachion_flexipes",
+    "euphausiid::Nyctiphanes_simplex",
+    "euphausiid::Stylocheiron_abbreviatum",
+    "euphausiid::Stylocheiron_affine",
+    "euphausiid::Stylocheiron_carinatum",
+    "euphausiid::Stylocheiron_elongatum",
+    "euphausiid::Stylocheiron_longicorne",
+    "euphausiid::Stylocheiron_maximum",
+    "euphausiid::Stylocheiron_suhmi",
+    "euphausiid::Tessarabrachion_oculatum",
+    "euphausiid::Thysanoessa_gregaria",
+    "euphausiid::Thysanoessa_longipes",
+    "euphausiid::Thysanoessa_spinifera",
+    "euphausiid::Thysanopoda_astylata",
+    "euphausiid::Thysanopoda_cornuta",
+    "euphausiid::Thysanopoda_cristata",
+    "euphausiid::Thysanopoda_egregia",
+    "euphausiid::Thysanopoda_monacantha",
+    "euphausiid::Thysanopoda_obtusifrons",
+    "euphausiid::Thysanopoda_orientalis",
+    "euphausiid::Thysanopoda_pectinata"
+  ],
+  "euphausia brevis": [
+    "euphausiid::Euphausia_brevis"
+  ],
+  "euphausia": [
+    "euphausiid::Euphausia_brevis",
+    "euphausiid::Euphausia_diomedeae",
+    "euphausiid::Euphausia_distinguenda",
+    "euphausiid::Euphausia_eximia",
+    "euphausiid::Euphausia_gibboides",
+    "euphausiid::Euphausia_hemigibba",
+    "euphausiid::Euphausia_lamelligera",
+    "euphausiid::Euphausia_mutica",
+    "euphausiid::Euphausia_pacifica",
+    "euphausiid::Euphausia_recurva",
+    "euphausiid::Euphausia_tenera"
+  ],
+  "euphausia diomedeae": [
+    "euphausiid::Euphausia_diomedeae"
+  ],
+  "euphausia distinguenda": [
+    "euphausiid::Euphausia_distinguenda"
+  ],
+  "euphausia eximia": [
+    "euphausiid::Euphausia_eximia"
+  ],
+  "euphausia gibboides": [
+    "euphausiid::Euphausia_gibboides"
+  ],
+  "euphausia hemigibba": [
+    "euphausiid::Euphausia_hemigibba"
+  ],
+  "euphausia lamelligera": [
+    "euphausiid::Euphausia_lamelligera"
+  ],
+  "euphausia mutica": [
+    "euphausiid::Euphausia_mutica"
+  ],
+  "euphausia pacifica": [
+    "euphausiid::Euphausia_pacifica"
+  ],
+  "euphausia recurva": [
+    "euphausiid::Euphausia_recurva"
+  ],
+  "euphausia tenera": [
+    "euphausiid::Euphausia_tenera"
+  ],
+  "hansarsia atlantica": [
+    "euphausiid::Hansarsia_atlantica"
+  ],
+  "hansarsia": [
+    "euphausiid::Hansarsia_atlantica",
+    "euphausiid::Hansarsia_difficilis",
+    "euphausiid::Hansarsia_gracilis",
+    "euphausiid::Hansarsia_microps",
+    "euphausiid::Hansarsia_tenella"
+  ],
+  "hansarsia difficilis": [
+    "euphausiid::Hansarsia_difficilis"
+  ],
+  "hansarsia gracilis": [
+    "euphausiid::Hansarsia_gracilis"
+  ],
+  "hansarsia microps": [
+    "euphausiid::Hansarsia_microps"
+  ],
+  "hansarsia tenella": [
+    "euphausiid::Hansarsia_tenella"
+  ],
+  "nematobrachion boopis": [
+    "euphausiid::Nematobrachion_boopis"
+  ],
+  "nematobrachion": [
+    "euphausiid::Nematobrachion_boopis",
+    "euphausiid::Nematobrachion_flexipes"
+  ],
+  "nematobrachion flexipes": [
+    "euphausiid::Nematobrachion_flexipes"
+  ],
+  "nyctiphanes simplex": [
+    "euphausiid::Nyctiphanes_simplex"
+  ],
+  "nyctiphanes": [
+    "euphausiid::Nyctiphanes_simplex"
+  ],
+  "stylocheiron abbreviatum": [
+    "euphausiid::Stylocheiron_abbreviatum"
+  ],
+  "stylocheiron": [
+    "euphausiid::Stylocheiron_abbreviatum",
+    "euphausiid::Stylocheiron_affine",
+    "euphausiid::Stylocheiron_carinatum",
+    "euphausiid::Stylocheiron_elongatum",
+    "euphausiid::Stylocheiron_longicorne",
+    "euphausiid::Stylocheiron_maximum",
+    "euphausiid::Stylocheiron_suhmi"
+  ],
+  "stylocheiron affine": [
+    "euphausiid::Stylocheiron_affine"
+  ],
+  "stylocheiron carinatum": [
+    "euphausiid::Stylocheiron_carinatum"
+  ],
+  "stylocheiron elongatum": [
+    "euphausiid::Stylocheiron_elongatum"
+  ],
+  "stylocheiron longicorne": [
+    "euphausiid::Stylocheiron_longicorne"
+  ],
+  "stylocheiron maximum": [
+    "euphausiid::Stylocheiron_maximum"
+  ],
+  "stylocheiron suhmi": [
+    "euphausiid::Stylocheiron_suhmi"
+  ],
+  "tessarabrachion oculatum": [
+    "euphausiid::Tessarabrachion_oculatum"
+  ],
+  "tessarabrachion": [
+    "euphausiid::Tessarabrachion_oculatum"
+  ],
+  "thysanoessa gregaria": [
+    "euphausiid::Thysanoessa_gregaria"
+  ],
+  "thysanoessa": [
+    "euphausiid::Thysanoessa_gregaria",
+    "euphausiid::Thysanoessa_longipes",
+    "euphausiid::Thysanoessa_spinifera"
+  ],
+  "thysanoessa longipes": [
+    "euphausiid::Thysanoessa_longipes"
+  ],
+  "thysanoessa spinifera": [
+    "euphausiid::Thysanoessa_spinifera"
+  ],
+  "thysanopoda astylata": [
+    "euphausiid::Thysanopoda_astylata"
+  ],
+  "thysanopoda": [
+    "euphausiid::Thysanopoda_astylata",
+    "euphausiid::Thysanopoda_cornuta",
+    "euphausiid::Thysanopoda_cristata",
+    "euphausiid::Thysanopoda_egregia",
+    "euphausiid::Thysanopoda_monacantha",
+    "euphausiid::Thysanopoda_obtusifrons",
+    "euphausiid::Thysanopoda_orientalis",
+    "euphausiid::Thysanopoda_pectinata"
+  ],
+  "thysanopoda cornuta": [
+    "euphausiid::Thysanopoda_cornuta"
+  ],
+  "thysanopoda cristata": [
+    "euphausiid::Thysanopoda_cristata"
+  ],
+  "thysanopoda egregia": [
+    "euphausiid::Thysanopoda_egregia"
+  ],
+  "thysanopoda monacantha": [
+    "euphausiid::Thysanopoda_monacantha"
+  ],
+  "thysanopoda obtusifrons": [
+    "euphausiid::Thysanopoda_obtusifrons"
+  ],
+  "thysanopoda orientalis": [
+    "euphausiid::Thysanopoda_orientalis"
+  ],
+  "thysanopoda pectinata": [
+    "euphausiid::Thysanopoda_pectinata"
+  ],
+  "all genera and species": [
+    "zoodb::All_genera_and_species"
+  ],
+  "all": [
+    "zoodb::All_genera_and_species"
+  ],
+  "amphipoda gammaridea": [
+    "zoodb::All_genera_and_species"
+  ],
+  "amphipoda hyperiidea": [
+    "zoodb::All_genera_and_species"
+  ],
+  "appendicularia": [
+    "zoodb::All_genera_and_species"
+  ],
+  "chaetognatha": [
+    "zoodb::All_genera_and_species"
+  ],
+  "copepoda": [
+    "zoodb::All_genera_and_species"
+  ],
+  "aetideus bradyi": [
+    "zoodb::aetideus_bradyi"
+  ],
+  "aetideus": [
+    "zoodb::aetideus_bradyi",
+    "zoodb::aetideus_divergens"
+  ],
+  "copepoda calanoida aetideidae": [
+    "zoodb::aetideus_bradyi",
+    "zoodb::aetideus_divergens",
+    "zoodb::euchirella_pseudopulchra",
+    "zoodb::euchirella_pulchra",
+    "zoodb::gaidius_pungens"
+  ],
+  "aetideus divergens": [
+    "zoodb::aetideus_divergens"
+  ],
+  "euchirella pseudopulchra": [
+    "zoodb::euchirella_pseudopulchra"
+  ],
+  "euchirella": [
+    "zoodb::euchirella_pseudopulchra",
+    "zoodb::euchirella_pulchra"
+  ],
+  "euchirella pulchra": [
+    "zoodb::euchirella_pulchra"
+  ],
+  "gaidius pungens": [
+    "zoodb::gaidius_pungens"
+  ],
+  "gaidius": [
+    "zoodb::gaidius_pungens"
+  ],
+  "calanus pacificus": [
+    "zoodb::calanus_pacificus"
+  ],
+  "calanus": [
+    "zoodb::calanus_pacificus"
+  ],
+  "copepoda calanoida calanidae": [
+    "zoodb::calanus_pacificus",
+    "zoodb::mesocalanus_lighti",
+    "zoodb::mesocalanus_tenuicornis",
+    "zoodb::nannocalanus_minor",
+    "zoodb::neocalanus_cristatus",
+    "zoodb::neocalanus_flemingeri",
+    "zoodb::neocalanus_gracilis",
+    "zoodb::neocalanus_plumchrus",
+    "zoodb::neocalanus_robustior"
+  ],
+  "mesocalanus lighti": [
+    "zoodb::mesocalanus_lighti"
+  ],
+  "mesocalanus": [
+    "zoodb::mesocalanus_lighti",
+    "zoodb::mesocalanus_tenuicornis"
+  ],
+  "mesocalanus tenuicornis": [
+    "zoodb::mesocalanus_tenuicornis"
+  ],
+  "nannocalanus minor": [
+    "zoodb::nannocalanus_minor"
+  ],
+  "nannocalanus": [
+    "zoodb::nannocalanus_minor"
+  ],
+  "neocalanus cristatus": [
+    "zoodb::neocalanus_cristatus"
+  ],
+  "neocalanus": [
+    "zoodb::neocalanus_cristatus",
+    "zoodb::neocalanus_flemingeri",
+    "zoodb::neocalanus_gracilis",
+    "zoodb::neocalanus_plumchrus",
+    "zoodb::neocalanus_robustior"
+  ],
+  "neocalanus flemingeri": [
+    "zoodb::neocalanus_flemingeri"
+  ],
+  "neocalanus gracilis": [
+    "zoodb::neocalanus_gracilis"
+  ],
+  "neocalanus plumchrus": [
+    "zoodb::neocalanus_plumchrus"
+  ],
+  "neocalanus robustior": [
+    "zoodb::neocalanus_robustior"
+  ],
+  "candacia aethiopica": [
+    "zoodb::candacia_aethiopica"
+  ],
+  "copepoda calanoida candaciidae": [
+    "zoodb::candacia_aethiopica",
+    "zoodb::candacia_bipinnata",
+    "zoodb::candacia_curta"
+  ],
+  "candacia": [
+    "zoodb::candacia_aethiopica",
+    "zoodb::candacia_bipinnata",
+    "zoodb::candacia_curta"
+  ],
+  "candacia bipinnata": [
+    "zoodb::candacia_bipinnata"
+  ],
+  "candacia curta": [
+    "zoodb::candacia_curta"
+  ],
+  "eucalanus californicus": [
+    "zoodb::eucalanus_californicus"
+  ],
+  "eucalanus": [
+    "zoodb::eucalanus_californicus",
+    "zoodb::eucalanus_hyalinus"
+  ],
+  "copepoda calanoida eucalanidae": [
+    "zoodb::eucalanus_californicus",
+    "zoodb::eucalanus_hyalinus",
+    "zoodb::pareucalanus_attenuatus",
+    "zoodb::rhincalanus_nasutus",
+    "zoodb::subeucalanus_crassus"
+  ],
+  "eucalanus hyalinus": [
+    "zoodb::eucalanus_hyalinus"
+  ],
+  "pareucalanus attenuatus": [
+    "zoodb::pareucalanus_attenuatus"
+  ],
+  "pareucalanus": [
+    "zoodb::pareucalanus_attenuatus"
+  ],
+  "rhincalanus nasutus": [
+    "zoodb::rhincalanus_nasutus"
+  ],
+  "rhincalanus": [
+    "zoodb::rhincalanus_nasutus"
+  ],
+  "subeucalanus crassus": [
+    "zoodb::subeucalanus_crassus"
+  ],
+  "subeucalanus": [
+    "zoodb::subeucalanus_crassus"
+  ],
+  "euchaeta acuta": [
+    "zoodb::euchaeta_acuta"
+  ],
+  "copepoda calanoida euchaetidae": [
+    "zoodb::euchaeta_acuta",
+    "zoodb::euchaeta_media",
+    "zoodb::euchaeta_rimana"
+  ],
+  "euchaeta": [
+    "zoodb::euchaeta_acuta",
+    "zoodb::euchaeta_media",
+    "zoodb::euchaeta_rimana"
+  ],
+  "euchaeta media": [
+    "zoodb::euchaeta_media"
+  ],
+  "euchaeta rimana": [
+    "zoodb::euchaeta_rimana"
+  ],
+  "heterorhabdus abyssalis": [
+    "zoodb::heterorhabdus_abyssalis"
+  ],
+  "heterorhabdus": [
+    "zoodb::heterorhabdus_abyssalis",
+    "zoodb::heterorhabdus_papilliger"
+  ],
+  "copepoda calanoida heterorhabdidae": [
+    "zoodb::heterorhabdus_abyssalis",
+    "zoodb::heterorhabdus_papilliger"
+  ],
+  "heterorhabdus papilliger": [
+    "zoodb::heterorhabdus_papilliger"
+  ],
+  "lucicutia flavicornis": [
+    "zoodb::lucicutia_flavicornis"
+  ],
+  "lucicutia": [
+    "zoodb::lucicutia_flavicornis",
+    "zoodb::lucicutia_spp."
+  ],
+  "copepoda calanoida lucicutiidae": [
+    "zoodb::lucicutia_flavicornis",
+    "zoodb::lucicutia_spp."
+  ],
+  "lucicutia spp.": [
+    "zoodb::lucicutia_spp."
+  ],
+  "gaussia princeps": [
+    "zoodb::gaussia_princeps"
+  ],
+  "copepoda calanoida metridinidae": [
+    "zoodb::gaussia_princeps",
+    "zoodb::metridia_cf._pacifica",
+    "zoodb::pleuromamma_abdominalis_edentata",
+    "zoodb::pleuromamma_abdominalis_typica",
+    "zoodb::pleuromamma_borealis",
+    "zoodb::pleuromamma_gracilis",
+    "zoodb::pleuromamma_piseki",
+    "zoodb::pleuromamma_quadrungulata",
+    "zoodb::pleuromamma_xiphias"
+  ],
+  "gaussia": [
+    "zoodb::gaussia_princeps"
+  ],
+  "metridia cf. pacifica": [
+    "zoodb::metridia_cf._pacifica"
+  ],
+  "metridia": [
+    "zoodb::metridia_cf._pacifica"
+  ],
+  "pleuromamma abdominalis edentata": [
+    "zoodb::pleuromamma_abdominalis_edentata"
+  ],
+  "pleuromamma": [
+    "zoodb::pleuromamma_abdominalis_edentata",
+    "zoodb::pleuromamma_abdominalis_typica",
+    "zoodb::pleuromamma_borealis",
+    "zoodb::pleuromamma_gracilis",
+    "zoodb::pleuromamma_piseki",
+    "zoodb::pleuromamma_quadrungulata",
+    "zoodb::pleuromamma_xiphias"
+  ],
+  "pleuromamma abdominalis typica": [
+    "zoodb::pleuromamma_abdominalis_typica"
+  ],
+  "pleuromamma borealis": [
+    "zoodb::pleuromamma_borealis"
+  ],
+  "pleuromamma gracilis": [
+    "zoodb::pleuromamma_gracilis"
+  ],
+  "pleuromamma piseki": [
+    "zoodb::pleuromamma_piseki"
+  ],
+  "pleuromamma quadrungulata": [
+    "zoodb::pleuromamma_quadrungulata"
+  ],
+  "pleuromamma xiphias": [
+    "zoodb::pleuromamma_xiphias"
+  ],
+  "labidocera trispinosa": [
+    "zoodb::labidocera_trispinosa"
+  ],
+  "copepoda calanoida pontellidae": [
+    "zoodb::labidocera_trispinosa"
+  ],
+  "labidocera": [
+    "zoodb::labidocera_trispinosa"
+  ],
+  "scolecithrix danae": [
+    "zoodb::scolecithrix_danae"
+  ],
+  "copepoda calanoida scolecitrichidae": [
+    "zoodb::scolecithrix_danae"
+  ],
+  "scolecithrix": [
+    "zoodb::scolecithrix_danae"
+  ],
+  "copepoda other calanoids": [
+    "zoodb::All_genera_and_species"
+  ],
+  "ctenophora": [
+    "zoodb::All_genera_and_species"
+  ],
+  "pleuroncodes planipes": [
+    "zoodb::pleuroncodes_planipes"
+  ],
+  "decapoda anomura galatheidae": [
+    "zoodb::pleuroncodes_planipes"
+  ],
+  "pleuroncodes": [
+    "zoodb::pleuroncodes_planipes"
+  ],
+  "pasiphaea pacifica": [
+    "zoodb::pasiphaea_pacifica"
+  ],
+  "decapoda caridea pasiphaeidae": [
+    "zoodb::pasiphaea_pacifica",
+    "zoodb::pasiphaea_spp."
+  ],
+  "pasiphaea": [
+    "zoodb::pasiphaea_pacifica",
+    "zoodb::pasiphaea_spp."
+  ],
+  "pasiphaea spp.": [
+    "zoodb::pasiphaea_spp."
+  ],
+  "sergestes similis": [
+    "zoodb::sergestes_similis"
+  ],
+  "sergestes": [
+    "zoodb::sergestes_similis",
+    "zoodb::sergestes_spp."
+  ],
+  "decapoda sergestoidea": [
+    "zoodb::sergestes_similis",
+    "zoodb::sergestes_spp.",
+    "zoodb::sergia_spp."
+  ],
+  "sergestes spp.": [
+    "zoodb::sergestes_spp."
+  ],
+  "sergia spp.": [
+    "zoodb::sergia_spp."
+  ],
+  "sergia": [
+    "zoodb::sergia_spp."
+  ],
+  "dolioletta gegenbauri": [
+    "zoodb::dolioletta_gegenbauri"
+  ],
+  "doliolida": [
+    "zoodb::dolioletta_gegenbauri",
+    "zoodb::dolioletta_sp."
+  ],
+  "dolioletta": [
+    "zoodb::dolioletta_gegenbauri",
+    "zoodb::dolioletta_sp."
+  ],
+  "dolioletta sp.": [
+    "zoodb::dolioletta_sp."
+  ],
+  "foraminifera": [
+    "zoodb::All_genera_and_species"
+  ],
+  "hydromedusa": [
+    "zoodb::All_genera_and_species"
+  ],
+  "mollusca euthecosomata": [
+    "zoodb::All_genera_and_species"
+  ],
+  "mollusca gymnosomata": [
+    "zoodb::All_genera_and_species"
+  ],
+  "atlanta spp.": [
+    "zoodb::atlanta_spp."
+  ],
+  "mollusca heteropoda atlantidae": [
+    "zoodb::atlanta_spp."
+  ],
+  "atlanta": [
+    "zoodb::atlanta_spp."
+  ],
+  "mollusca pseudothecosomata": [
+    "zoodb::All_genera_and_species"
+  ],
+  "ostracoda": [
+    "zoodb::All_genera_and_species"
+  ],
+  "tomopteris spp.": [
+    "zoodb::tomopteris_spp."
+  ],
+  "tomopteris": [
+    "zoodb::tomopteris_spp."
+  ],
+  "polychaeta tomopteridae": [
+    "zoodb::tomopteris_spp."
+  ],
+  "pyrosoma atlanticum": [
+    "zoodb::pyrosoma_atlanticum"
+  ],
+  "pyrosoma": [
+    "zoodb::pyrosoma_atlanticum",
+    "zoodb::pyrosoma_spp.",
+    "zoodb::pyrosomella_verticillata"
+  ],
+  "pyrosoma spp.": [
+    "zoodb::pyrosoma_spp."
+  ],
+  "pyrosomella verticillata": [
+    "zoodb::pyrosomella_verticillata"
+  ],
+  "pyrosomella": [
+    "zoodb::pyrosomella_verticillata"
+  ],
+  "radiolaria": [
+    "zoodb::All_genera_and_species"
+  ],
+  "cyclosalpa affinis": [
+    "zoodb::cyclosalpa_affinis"
+  ],
+  "salpida": [
+    "zoodb::cyclosalpa_affinis",
+    "zoodb::cyclosalpa_bakeri",
+    "zoodb::cyclosalpa_pinnata",
+    "zoodb::cyclosalpa_quadriluminis",
+    "zoodb::cyclosalpa_spp.",
+    "zoodb::helicosalpa_virgula",
+    "zoodb::ihlea_punctata",
+    "zoodb::pegea_confoederata",
+    "zoodb::pegea_socia",
+    "zoodb::pegea_spp.",
+    "zoodb::ritteriella_amboinensis",
+    "zoodb::ritteriella_picteti",
+    "zoodb::ritteriella_retracta",
+    "zoodb::ritteriella_spp.",
+    "zoodb::salpa_aspera",
+    "zoodb::salpa_fusiformis",
+    "zoodb::salpa_maxima",
+    "zoodb::salpa_spp.",
+    "zoodb::soestia_zonaria",
+    "zoodb::thalia_democratica",
+    "zoodb::thetys_vagina",
+    "zoodb::weelia_cylindrica"
+  ],
+  "cyclosalpa": [
+    "zoodb::cyclosalpa_affinis",
+    "zoodb::cyclosalpa_bakeri",
+    "zoodb::cyclosalpa_pinnata",
+    "zoodb::cyclosalpa_quadriluminis",
+    "zoodb::cyclosalpa_spp."
+  ],
+  "cyclosalpa bakeri": [
+    "zoodb::cyclosalpa_bakeri"
+  ],
+  "cyclosalpa pinnata": [
+    "zoodb::cyclosalpa_pinnata"
+  ],
+  "cyclosalpa quadriluminis": [
+    "zoodb::cyclosalpa_quadriluminis"
+  ],
+  "cyclosalpa spp.": [
+    "zoodb::cyclosalpa_spp."
+  ],
+  "helicosalpa virgula": [
+    "zoodb::helicosalpa_virgula"
+  ],
+  "helicosalpa": [
+    "zoodb::helicosalpa_virgula"
+  ],
+  "ihlea punctata": [
+    "zoodb::ihlea_punctata"
+  ],
+  "ihlea": [
+    "zoodb::ihlea_punctata"
+  ],
+  "pegea confoederata": [
+    "zoodb::pegea_confoederata"
+  ],
+  "pegea": [
+    "zoodb::pegea_confoederata",
+    "zoodb::pegea_socia",
+    "zoodb::pegea_spp."
+  ],
+  "pegea socia": [
+    "zoodb::pegea_socia"
+  ],
+  "pegea spp.": [
+    "zoodb::pegea_spp."
+  ],
+  "ritteriella amboinensis": [
+    "zoodb::ritteriella_amboinensis"
+  ],
+  "ritteriella": [
+    "zoodb::ritteriella_amboinensis",
+    "zoodb::ritteriella_picteti",
+    "zoodb::ritteriella_retracta",
+    "zoodb::ritteriella_spp."
+  ],
+  "ritteriella picteti": [
+    "zoodb::ritteriella_picteti"
+  ],
+  "ritteriella retracta": [
+    "zoodb::ritteriella_retracta"
+  ],
+  "ritteriella spp.": [
+    "zoodb::ritteriella_spp."
+  ],
+  "salpa aspera": [
+    "zoodb::salpa_aspera"
+  ],
+  "salpa": [
+    "zoodb::salpa_aspera",
+    "zoodb::salpa_fusiformis",
+    "zoodb::salpa_maxima",
+    "zoodb::salpa_spp."
+  ],
+  "salpa fusiformis": [
+    "zoodb::salpa_fusiformis"
+  ],
+  "salpa maxima": [
+    "zoodb::salpa_maxima"
+  ],
+  "salpa spp.": [
+    "zoodb::salpa_spp."
+  ],
+  "soestia zonaria": [
+    "zoodb::soestia_zonaria"
+  ],
+  "soestia": [
+    "zoodb::soestia_zonaria"
+  ],
+  "thalia democratica": [
+    "zoodb::thalia_democratica"
+  ],
+  "thalia": [
+    "zoodb::thalia_democratica"
+  ],
+  "thetys vagina": [
+    "zoodb::thetys_vagina"
+  ],
+  "thetys": [
+    "zoodb::thetys_vagina"
+  ],
+  "weelia cylindrica": [
+    "zoodb::weelia_cylindrica"
+  ],
+  "weelia": [
+    "zoodb::weelia_cylindrica"
+  ],
+  "siphonophora": [
+    "zoodb::All_genera_and_species"
+  ]
+}
